@@ -5,8 +5,10 @@ subtitle: The Chronicles of a Student
 ---
 ### My story
 
-My name is Dennis Maksimov and for the past decade, I've been in the hospital maintenance and retail industry. I've seen everything you can think of seeing and I've dealt with it ranging from broken pipes, overflowing toilets, to rambunctious customers who truly desire for you to have character development. I've built up a unique set of troubleshooting skills that have been battle-tested and I feel as if I'm now equipped to face any challenge that gets thrown at me. 
+I’m Dennis Maksimov and for the past decade, I’ve worked in hospital maintenance and the retail industry. If you can think of a problem, I’ve probably dealt with it whether it was burst pipes, overflowing toilets, or customers who seemed determined to help me with my character development. Through it all, I’ve built a rock-solid set of troubleshooting skills, sharpened under pressure, and I’m confident that I can tackle any challenge thrown my way.
 
-Since I was young I've had a passion for technology which consisted of dismantling family computers, Game Boys, and cell phones to understand how they work and to learn how to fix them before my parents found out. Now that I'm a lot older, I've decided to pursue technology and go all in on IT, networking, and cybersecurity. My main goals are aimed towards networking and eventually a long-term goal of pivoting toward cybersecurity. 
+Believe it or not, technology has always been my true passion. Since childhood, I’ve been the kind of person who couldn’t resist taking apart family computers, Game Boys, and cell phones just to see how they worked and, hopefully, put them back together before my parents noticed. That curiosity never faded, and now I’m fully committed to jumping into IT, networking, and cybersecurity.
 
-As of now, I've obtained an associate of science in computer network management and my CompTIA A+. My next items on the to-do list are the network+, security, and the cysa+. Therefore, I plan to share my learning journey, document my findings, and explore the world of tech with this here website. Thank you for joining me on my journey!
+I hold an Associate of Science in Computer Network Management and have earned my CompTIA A+. Next up is the Network+, Security+, and CySA+, and more as I continue building my expertise with the ultimate goal of transitioning into networking and cybersecurity.
+
+This website is where I’ll document my learning journey, share insights, and explore the ever-evolving world of tech. Thanks for stopping by!
