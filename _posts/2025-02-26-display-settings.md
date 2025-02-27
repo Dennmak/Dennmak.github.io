@@ -23,16 +23,16 @@ There are two different initial ways to access the display settings, and this se
 
 ### Right Click Approach
    
-Right-click your desktop and select **Display Settings**.
+1.) Right-click your desktop and select **Display Settings**.
 
 ![Display Settings 3](/assets/img/Display Settings 3 - Display Settings.png)
 
 ### Search Bar Approach
 
-In your search bar at the bottom of your screen type in **settings**.
+1.) In your search bar at the bottom of your screen type in **settings**.
 
 ![Display Settings 1](/assets/img/Display Settings 1 - Settings.png)
 
-Select **system** in your menu list.
+2.) Select **system** in your menu list.
 
 ![Display Settings 4](/assets/img/Display Settings 4 - System.png)
