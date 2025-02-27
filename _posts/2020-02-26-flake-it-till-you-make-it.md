@@ -15,6 +15,6 @@ With Microsoft's recent release of Windows 11, they've moved many things around 
 
 The topics we'll be addressing today is how to find your display settings in Windows 11, how to access them, and how to edit them to best suit your needs. Ready? Let's get started!
 
-![Sad Carton Man](/assets/img/Sad Carton Man - Display Settings.jpg
+![Sad Carton Man](/assets/img/Sad Carton Man - Display Settings.jpg)
 
 
