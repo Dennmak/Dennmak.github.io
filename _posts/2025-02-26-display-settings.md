@@ -84,3 +84,10 @@ The display orientation option allows you to customize your desktop with options
 The multiple displays option allows you to change the presentation mode for your displays, detect new displays, and connect to wireless displays. This makes it easier to connect multiple monitors and allows you to customize them with ease.
 
 ![Display Settings 11](/assets/img/Display Settings 11 - Multiple Displays.png)
+
+## Mission Accomplished
+
+You have successfully accessed the display settings tab in Windows 11 and customized the settings according to your taste! We've looked at how to change brightness, resolution, scale, and more. The display settings options provide a vast toolbox that you can experiment and truly create a unique experience that caters to you. Explore the settings tab and continue to experiment to find out what caters most to you. Thanks for following along and I hope you enjoyed the tutorial.
+
+![Happy Carton Man](/assets/img/Happy Carton Man - Display Settings.jpg)
+
