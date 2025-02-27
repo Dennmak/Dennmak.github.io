@@ -70,3 +70,11 @@ The display resolution option gives you the ability to adjust the resolution for
 1.) Click the box and select what resolution you would prefer.
 
 ![Display Settings 9](/assets/img/Display Settings 9 - Display Resolution.png)
+
+## Display Orientation
+
+The display orientation option allows you to customize your desktop with options such as landscape, portrait, landscape (flipped), and portrait (flipped). This allows you to change the direction of your digital display. For example, if you take a picture with a camera, you can either line up so that it's horizontal or vertical. This affects the outcome and you'll have a different size photo. 
+
+1.) Select the box and pick which option you would like to switch based on your preference.
+
+![Display Settings 10](/assets/img/Display Settings 10 - Display Orientation.png)
