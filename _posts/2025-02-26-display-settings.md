@@ -54,3 +54,19 @@ The night light option allows you to enable warmer colors on your display to blo
 1.) Toggle the button to **On** to enable night light or **Off** option to disable it.
 
 ![Display Settings 7](/assets/img/Display settings 7 - Night Light.png)
+
+## The Scale
+
+The scale option allows you to customize the UI font size for your system. You can either make it smaller or larger based on your needs. However, it's suggested you pick the **recommended** option to provide a balanced experience that's enjoyable.
+
+1.) Click the box and select what scale percentage you would prefer.
+
+![Display Settings 8](/assets/img/Display Settings 8 - Scale.png)
+ 
+## Display Resolution
+
+The display resolution option gives you the ability to adjust the resolution for your connected display. It provides a broad list of options to choose from to customize your viewing experience.
+
+1.) Click the box and select what resolution you would prefer.
+
+![Display Settings 9](/assets/img/Display Settings 9 - Display Resolution.png)
