@@ -3,8 +3,8 @@ layout: post
 title: Test Title
 subtitle: How to make a blog post
 cover-img: assets/img/Geometric background.png
-thumbnail-img: assets/img/Geometric background.png
-share-img: assets/img/Geometric background.png
+thumbnail-img: assets/img/Thumbnail - Display Settings.jpg
+share-img: assets/img/Thumbnail - Display Settings.jpg
 tags: [IT, Tutorial]
 author: Dennis Maksimov
 ---
