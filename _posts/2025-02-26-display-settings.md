@@ -78,3 +78,9 @@ The display orientation option allows you to customize your desktop with options
 1.) Select the box and pick which option you would like to switch based on your preference.
 
 ![Display Settings 10](/assets/img/Display Settings 10 - Display Orientation.png)
+
+## Multiple Displays
+
+The multiple displays option allows you to change the presentation mode for your displays, detect new displays, and connect to wireless displays. This makes it easier to connect multiple monitors and allows you to customize them with ease.
+
+![Display Settings 11](/assets/img/Display Settings 11 - Multiple Displays.png)
