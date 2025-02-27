@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Display Settings
-subtitle: Change your settings in Windows 11
+subtitle: Windows 11 Guide
 cover-img: assets/img/Geometric background.png
 thumbnail-img: assets/img/Thumbnail - Display Settings.jpg
 share-img: assets/img/Thumbnail - Display Settings.jpg
