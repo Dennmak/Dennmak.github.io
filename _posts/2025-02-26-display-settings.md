@@ -34,3 +34,7 @@ There are two different initial ways to access the display settings, and this se
 2.) Select **system** in your menu list.
 
 ![Display Settings 4](/assets/img/Display Settings 4 - System.png)
+
+3.) Select **Display** in your menu list.
+
+![Display Settings 5](/assets/img/Display Settings 5.png)
