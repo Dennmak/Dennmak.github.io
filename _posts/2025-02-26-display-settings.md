@@ -45,4 +45,12 @@ The brightness option allows you to edit the brightness levels of your monitor s
 
 1.) Select the brightness slider and drag it to adjust it to your desired brightness level.
 
-![Display Settings 5](/assets/img/Display Settings 6 - Brightness.png)
+![Display Settings 6](/assets/img/Display Settings 6 - Brightness.png)
+
+## The Night Light
+
+The night light option allows you to enable warmer colors on your display to block blue light. This allows for an experience that's easier on the eyes if you're working late into the night.
+
+1.) Toggle the button to the **On** to enable night light or the **Off** option to disable it.
+
+![Display Settings 7](assets/img/Display settings 7 - Night Light.png)
