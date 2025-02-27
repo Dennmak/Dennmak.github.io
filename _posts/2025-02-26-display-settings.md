@@ -21,18 +21,18 @@ The topics we'll be addressing today is how to find your display settings in Win
 
 There are two different initial ways to access the display settings, and this section will cover both.
 
-1. Right Click Approach
+### Right Click Approach
    
-* Right-click your desktop and select **Display Settings**.
+Right-click your desktop and select **Display Settings**.
 
 ![Display Settings 3](/assets/img/Display Settings 3 - Display Settings.png)
 
-2. Search Bar Approach
+### Search Bar Approach
 
-   * In your search bar at the bottom of your screen type in **settings**.
+In your search bar at the bottom of your screen type in **settings**.
 
 ![Display Settings 1](/assets/img/Display Settings 1 - Settings.png)
 
-   * Select **system** in your menu list.
+Select **system** in your menu list.
 
 ![Display Settings 4](/assets/img/Display Settings 4 - System.png)
