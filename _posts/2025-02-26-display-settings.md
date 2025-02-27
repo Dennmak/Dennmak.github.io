@@ -53,4 +53,4 @@ The night light option allows you to enable warmer colors on your display to blo
 
 1.) Toggle the button to the **On** to enable night light or the **Off** option to disable it.
 
-![Display Settings 7](assets/img/Display settings 7 - Night Light.png)
+![Display Settings 7](/assets/img/Display settings 7 - Night Light.png)
