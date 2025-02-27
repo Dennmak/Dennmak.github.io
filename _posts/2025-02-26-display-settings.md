@@ -51,6 +51,6 @@ The brightness option allows you to edit the brightness levels of your monitor s
 
 The night light option allows you to enable warmer colors on your display to block blue light. This allows for an experience that's easier on the eyes if you're working late into the night.
 
-1.) Toggle the button to the **On** to enable night light or the **Off** option to disable it.
+1.) Toggle the button to **On** to enable night light or **Off** option to disable it.
 
 ![Display Settings 7](/assets/img/Display settings 7 - Night Light.png)
