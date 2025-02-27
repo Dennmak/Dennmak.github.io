@@ -17,4 +17,17 @@ The topics we'll be addressing today is how to find your display settings in Win
 
 ![Sad Carton Man](/assets/img/Sad Carton Man - Display Settings.jpg)
 
+## Where do I Find Settings?
+
+There are two different initial ways to access the display settings, and this section will cover both.
+
+1. Right Click Approach
+   * Right-click your desktop and select **Display Settings**.
+
+![Display Settings 3](/assets/img/Display Settings 3 - Display Settings.png)
+
+2. Search Bar Approach
+
+
+
 
