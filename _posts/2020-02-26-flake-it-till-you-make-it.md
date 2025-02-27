@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test Title
-subtitle: How to make a blog post
+title: Display Settings
+subtitle: How to change your display settings in Windows 11
 cover-img: assets/img/Geometric background.png
 thumbnail-img: assets/img/Thumbnail - Display Settings.jpg
 share-img: assets/img/Thumbnail - Display Settings.jpg
