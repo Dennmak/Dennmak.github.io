@@ -38,3 +38,11 @@ There are two different initial ways to access the display settings, and this se
 3.) Select **Display** in your menu list.
 
 ![Display Settings 5](/assets/img/Display Settings 5.png)
+
+## The Brightness Bar
+
+The brightness option allows you to edit the brightness levels of your monitor so you either make it very dark, very bright, or just right. It allows the option to prevent temporary blindness and to avoid light mode at all costs.
+
+1.) Select the brightness slider and drag it to adjust it to your desired brightness level.
+
+![Display Settings 5](/assets/img/Display Settings 6 - Brightness.png)
