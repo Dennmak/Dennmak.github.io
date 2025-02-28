@@ -59,3 +59,9 @@ We have discovered the voice typing box! This allows you to type with your voice
 
 ![Text Input 9](/assets/img/Text Input 9 - Voice Typing Box.png)
 
+## Theme Selection
+
+Here we have the option to select a color theme for the UI. As you switch through the colors, you can see that they change in your preview box. On my screen, I have selected the black theme and it's now previewing in the box. Experiment for a bit to see which color you enjoy the most!
+
+![Text Input 10](/assets/img/Text Input 10 - Theme Selection.png)
+
