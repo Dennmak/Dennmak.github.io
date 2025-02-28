@@ -37,4 +37,18 @@ The most important step of changing your text settings is knowing how to get the
 
 ![Text Input 4](/assets/img/Text Input 4 - Text Input.png)
 
+## Text Input Menu
+
+We have arrived to our destination and this is where all of the fun will happen! Here in the text menu, we'll be changing the color of our on-screen keyboard, parts of our UI, and other options. There's also the ability to change the UI colors for the emoji and voice text options! We've spent enough time here, let's keep going!
+
+![Text Input 5](/assets/img/Text Input 5 - Text Input Page.png)
+
+1) Click the **Emoji and more** box to access your emoji box.
+
+![Text Input 6](/assets/img/Text Input 6 - Input Box.png)
+
+Here you can use emojis and gifs when writing! It's a unique feature that I recently found myself.
+
+![Text Input 7](/assets/img/Text Input 7 - Emoji Box Preview.png)
+
 
