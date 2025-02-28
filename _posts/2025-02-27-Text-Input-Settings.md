@@ -57,4 +57,5 @@ Here you can use emojis and gifs when writing! It's a unique feature that I rece
 
 We have discovered the voice typing box! This allows you to type with your voice! It's a unique accessibility feature that provides an option to type without a keyboard.
 
-![Text Input 9](/assets/img/Text Input 9 - Voice Typing Box.png
+![Text Input 9](/assets/img/Text Input 9 - Voice Typing Box.png)
+
