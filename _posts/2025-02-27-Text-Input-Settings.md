@@ -99,5 +99,20 @@ In this part of the custom theme menu, you're able to choose your custom picture
 
 ![Text Input 25](/assets/img/Text Input 25.png)
 
+### Accent Color
+
+The accent color box allows you to pick a color via a color palette that will be the primary color for the accents in your UI.
+
+1) Select the color box to the right of **accent color**. A color palette should appear. Select the color that you would like.
+
+![Text Input 15](/assets/img/Text Input 15 - Accent Color.png
+
+### Text Color
+
+The text color options modify the text color for the UI and allows you to use the color of your choosing.
+
+1.) Select the color box to the right of **text color**. A color palette should appear and you can pick the one that you desire.
+
+![Text Input 16](/assets/img/Text Input 16 - Text Color.png)
 
 
