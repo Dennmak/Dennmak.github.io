@@ -19,7 +19,7 @@ The topics we'll be addressing today are how to find your text input settings in
 
 ## Where do I Find Settings?
 
-The most important step of changing your text settings is knowing how to get there. Windows 11 has a habit of moving what we're used to into different categories. Now we practically need a map to navigate this digital forest! 
+The most important step in changing your text settings is knowing how to get there. Windows 11 has a habit of moving what we're used to into different categories. Now we practically need a map to navigate this digital forest! 
 
 1.) In your search bar at the bottom of your screen type in **settings**.
 
