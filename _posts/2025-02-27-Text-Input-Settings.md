@@ -105,7 +105,7 @@ The accent color box allows you to pick a color via a color palette that will be
 
 1) Select the color box to the right of **accent color**. A color palette should appear. Select the color that you would like.
 
-![Text Input 15](/assets/img/Text Input 15 - Accent Color.png
+![Text Input 15](/assets/img/Text Input 15 - Accent Color.png)
 
 ### Text Color
 
