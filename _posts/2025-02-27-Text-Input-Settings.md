@@ -115,4 +115,10 @@ The text color options modify the text color for the UI and allows you to use th
 
 ![Text Input 16](/assets/img/Text Input 16 - Text Color.png)
 
+### Output Settings
+
+The settings have been modified and now in the preview box above you should see that the colors you chose are now being previewed! We're almost done!
+
+![Text Input 17](/assets/img/Text Input 17 - Output Settings.png)
+
 
