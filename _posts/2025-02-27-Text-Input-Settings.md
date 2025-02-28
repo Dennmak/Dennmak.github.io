@@ -51,4 +51,10 @@ Here you can use emojis and gifs when writing! It's a unique feature that I rece
 
 ![Text Input 7](/assets/img/Text Input 7 - Emoji Box Preview.png)
 
+2.) Exit out of the Emoji box with the X in the top right corner and select the **voice typing** box.
 
+![Text Input 8](/assets/img/Text Input 8 - Voice Typing Selection.png)
+
+We have discovered the voice typing box! This allows you to type with your voice! It's a unique accessibility feature that provides an option to type without a keyboard.
+
+![Text Input 9](/assets/img/Text Input 9 - Voice Typing Box.png
