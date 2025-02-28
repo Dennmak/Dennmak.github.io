@@ -141,5 +141,12 @@ The last option we'll look at today is the ability to modify what you see when y
 
 ![Text Input 20](/assets/img/Text Input 21 - Copilot.png)
 
+## Grand Finale
+
+You did it! You have come this far, I congratulate you! You now know how to personalize your text settings and change them to the colors that you want. It was quite the journey and you're on your step to becoming a true color master. Keep exploring different settings in Windows 11 and see what else you can find to make your Windows experience truly unique. 
+
+![Excited Carton Man - Text Input](/assets/img/Excited Carton Man - Text Input.jpg)
+
+
 
 
