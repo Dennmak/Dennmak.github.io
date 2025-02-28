@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Text Input
-subtitle: How to Personalize Your Text Settings
+title: Text Input Settings
+subtitle: How to Personalize Your Text
 tags: [IT, Tutorial]
 author: Dennis Maksimov
 cover-img: assets/img/Geometric background.png
