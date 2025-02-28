@@ -25,6 +25,15 @@ The most important of changing your text settings is knowing how to get there. W
 
 ![Text Input 1](/assets/img/Text Input 1 - Settings.png)
 
+2.) In the menu that pops up select **settings**.
 
+![Text Input 2](/assets/img/Text Input 2 - Settings.png)
 
+3.) Select **Personalization** in the menu that shows up.
+
+![Text Input 3](/assets/img/Text Input 3 - Personalization.png)
+
+4.) You'll see a large menu, select **Text Input** to proceed.
+
+![Text Input 4](/assets/img/Text Input 4 - Text Input.png)
 
