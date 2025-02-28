@@ -121,4 +121,12 @@ The settings have been modified and now in the preview box above you should see 
 
 ![Text Input 17](/assets/img/Text Input 17 - Output Settings.png)
 
+### Keyboard Settings
+
+In the keyboard settings, you're able to modify your keyboard size, pick whether it's transparent, adjust the key size, and then finally preview what your keyboard looks like. This gives you the option to pick how big or small it is. I know that as we get older, it's harder to see things, so luckily this gives the option to view the keyboard at an EXTRA large size and that's a huge blessing for me.
+
+![Text Input 22](/assets/img/Text Input 22 - Keyboard Options.png)
+
+
+
 
