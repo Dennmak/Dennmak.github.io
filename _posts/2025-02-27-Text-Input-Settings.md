@@ -127,6 +127,12 @@ In the keyboard settings, you're able to modify your keyboard size, pick whether
 
 ![Text Input 22](/assets/img/Text Input 22 - Keyboard Options.png)
 
+If you wish to preview your new keyboard, then under **view your changes** select **open your keyboard**. This should open your keyboard in the color schemes and modifications that you have chosen.
 
+![Text Input 19](/assets/img/Text Input 19 - Open Keyboard.png)
+
+You should now see your virtual keyboard pop up on your screen!
+
+![Text Input 20](/assets/img/Text Input 20 - Keyboard.png)
 
 
