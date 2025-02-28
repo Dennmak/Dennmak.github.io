@@ -135,4 +135,11 @@ You should now see your virtual keyboard pop up on your screen!
 
 ![Text Input 20](/assets/img/Text Input 20 - Keyboard.png)
 
+### Copilot
+
+The last option we'll look at today is the ability to modify what you see when you press the Copilot key. In this menu, you can modify it to search, copilot, or even something entirely of your choosing. Have fun with it!
+
+![Text Input 20](/assets/img/Text Input 21 - Copilot.png)
+
+
 
