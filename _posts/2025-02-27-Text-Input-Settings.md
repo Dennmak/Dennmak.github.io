@@ -65,3 +65,11 @@ Here we have the option to select a color theme for the UI. As you switch throug
 
 ![Text Input 10](/assets/img/Text Input 10 - Theme Selection.png)
 
+## Custom Theme - True Customization
+
+We have come to the exciting part, are you ready? With a custom theme, you're able to fine-tune and pick what colors you want from a swatch. This allows you to manually pick what you want and to create a truly unique outcome. Let's get started!
+
+1.) Press the **+** on the custom theme box to access the custom theme menu.
+
+![Text Input 11](/assets/img/Text Input 11 - Custom Theme.png)
+
