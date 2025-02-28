@@ -73,3 +73,31 @@ We have come to the exciting part, are you ready? With a custom theme, you're ab
 
 ![Text Input 11](/assets/img/Text Input 11 - Custom Theme.png)
 
+2.) Click the colored box on the right to access a palette that will allow you to pick your background color.
+
+![Text Input 12](/assets/img/Text Input 12 - Custom Background.png)
+
+3.) Use the color palette to find a color that you enjoy the most. I have selected blue.
+
+![Text Input 13](/assets/img/Text Input 13 - Select a Color.png)
+
+### Custom Theme Picture
+
+In this part of the custom theme menu, you're able to choose your custom picture, fit, and image brightness levels. 
+
+![Text Input 14](/assets/img/Text Input 14 - Select a Picture.png)
+
+1.) On the right side of Choose a Picture, select **Browse**.
+
+![Text Input 23 TWO](/assets/img/Text Input 23 TWO.png)
+
+2.) Select a picture that you would like, I'll be picking a blue jellyfish that I saved off of Pexels.
+
+![Text Input 24](/assets/img/Text Input 24.png)
+
+3.) As you now see in the preview, I have a jellyfish theme! The preview box should reflect the image that you have selected.
+
+![Text Input 25](/assets/img/Text Input 25.png)
+
+
+
