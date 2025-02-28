@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Text Input Settings
-subtitle: How to Personalize Your Text
+subtitle: How to Personalize Your Text in Windows 11
 tags: [IT, Tutorial]
 author: Dennis Maksimov
 cover-img: assets/img/Geometric background.png
