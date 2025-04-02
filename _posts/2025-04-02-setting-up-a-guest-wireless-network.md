@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Display Settings
-subtitle: How to Change your Settings in Windows 11
+title: Setting Up A Wireless Network
+subtitle: How to Set Up A Guest Network
 cover-img: assets/img/Geometric background.png
 thumbnail-img: assets/img/Thumbnail - Display Settings.jpg
 share-img: assets/img/Thumbnail - Display Settings.jpg
