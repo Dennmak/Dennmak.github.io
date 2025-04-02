@@ -2,9 +2,9 @@
 layout: post
 title: Setting Up A Wireless Network
 subtitle: How to Set Up A Guest Network
-cover-img: assets/img/Geometric background.png
-thumbnail-img: assets/img/Thumbnail - Display Settings.jpg
-share-img: assets/img/Thumbnail - Display Settings.jpg
-tags: [IT, Tutorial]
+cover-img: assets/img/Geometric Background - Guest Network.jpg
+thumbnail-img: assets/img/Modem Router Thumbnail - Guest Network.jpg
+share-img: assets/img/Modem Router Thumbnail - Guest Network.jpg
+tags: [Networking, Tutorial]
 author: Dennis Maksimov
 ---
