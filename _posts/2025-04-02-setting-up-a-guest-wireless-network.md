@@ -7,3 +7,4 @@ thumbnail-img: assets/img/Thumbnail - Display Settings.jpg
 share-img: assets/img/Thumbnail - Display Settings.jpg
 tags: [IT, Tutorial]
 author: Dennis Maksimov
+---
