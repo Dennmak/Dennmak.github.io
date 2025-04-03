@@ -66,8 +66,12 @@ We shall repeat this process for our guest network. On the left side you'll see 
 
 We'll implement a password on the network now so that your trinkets will be safe. On the same window that's open, select **WPA2-PSK** and you'll see the option to select a passcode next to it. Type in a password that you desire and this will be what you'll use to access your wifi network. 
 
-I used *Hello1245* ass my password for demonstrative purposes. However, for official use please use a password with capitals, numbers, and lowercase letters to make it as secure and complicated as possible. Password security is important and the last thing you want is an unauthorized user downloading 45,000 illegal movies on your connection. 
+I used *Hello12345* ass my password for demonstrative purposes. However, for official use please use a password with capitals, numbers, and lowercase letters to make it as secure and complicated as possible. Password security is important and the last thing you want is an unauthorized user downloading 45,000 illegal movies on your connection. 
 
 ![Screenshot 10](/assets/img/Screenshot 10 - Guest Network.png)
+
+We'll do the same thing for our guest network and we'll head to **wireless guest 2.4ghz**. Head to **WPA2-PSK** and you'll see the same passcode option next to it. Put in a password of your choosing, in my case I did *Hello12345*.
+
+![Screenshot 12](/assets/img/SCreenshot 12 - Guest Network.png)
 
 
