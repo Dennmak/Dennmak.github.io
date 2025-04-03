@@ -38,3 +38,36 @@ After you placed them on the canvas, you'll see a router and two laptops on your
 
 ![Screenshot 5](/assets/img/Screenshot 5 - Guest Network.png)
 
+## The Awesome Router
+
+Double click your router on the canvas and you'll see a menu pop. Click config and you should see the **global settings* menu pop up with a menu stating **Display Name**. Overall, this helps with organization and is optional but in my case I renamed it as **The Awesome Router**. 
+
+![Screenshot 6](/assets/img/Screenshot 6 - Guest Network.png)
+
+Exit out and we'll change the device names of both laptops to **The Awesome Laptop 1** and **The Awesome Laptop 2**. Yes, it is very original, I know. 
+
+![Screenshot 7](/assets/img/Screenshot 7 - Guest Network.png)
+
+The same process will be done for the second laptop.
+
+![Screenshot 8](/assets/img/Screenshot 8 - Guest Network.png)
+
+## Name Day
+
+Today is the day that we'll give our router a true name. A name it will never forget. Double click your router and head to the config tab. Go to the wireless 2.4ghz option and a menu should pop up on the right. You will see **SSID** this is the place where we shall give our router its true name which will be seen by all. I have decided to name our router **The Awesome Router** because it needs some recognition.
+
+![Screenshot 9](/assets/img/Screenshot 9 - Guest Network.png)
+
+We shall repeat this process for our guest network. On the left side you'll see a Wireless 2.4ghz option. Select that and you'll see the same SSID option to rename your guest network. In this case I decided to go with the most original name **Guest**.
+
+![Screenshot 11](/assets/img/Screenshot 11 - Guest Network.png)
+
+## Ramp up the Security!
+
+We'll implement a password on the network now so that your trinkets will be safe. On the same window that's open, select **WPA2-PSK** and you'll see the option to select a passcode next to it. Type in a password that you desire and this will be what you'll use to access your wifi network. 
+
+I used *Hello1245* ass my password for demonstrative purposes. However, for official use please use a password with capitals, numbers, and lowercase letters to make it as secure and complicated as possible. Password security is important and the last thing you want is an unauthorized user downloading 45,000 illegal movies on your connection. 
+
+![Screenshot 10](/assets/img/Screenshot 10 - Guest Network.png)
+
+
