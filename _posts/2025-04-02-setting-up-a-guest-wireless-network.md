@@ -15,3 +15,10 @@ How you ever wondered how to set up a guest network? Do you want to keep others 
 It seems complicated but at the end of this tutorial you'll have an idea of how it works and be able to make your own! Visitors to your home will be so excited to have wifi access! Woohoo! Let's get started!
 
 ![Lemur](/assets/img/Lemur - Guest Network.jpg)
+
+## Let's Get Started!
+
+When you open up Cisco Packet Tracer for the first time you'll be greeted by a blank canvas without any models on it. This is where we'll be starting our project and making our guest network.
+
+![Screenshot 1](/assets/img/Screenshot 1 - Guest Network.png)
+
