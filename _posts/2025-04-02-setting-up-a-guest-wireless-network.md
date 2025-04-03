@@ -22,3 +22,19 @@ When you open up Cisco Packet Tracer for the first time you'll be greeted by a b
 
 ![Screenshot 1](/assets/img/Screenshot 1 - Guest Network.png)
 
+Select the **Wireless Devices** tab and a line of devices should pop up.
+
+![Screenshot 2](/assets/img/Screenshot 2 - Guest Network.png)
+
+Find **Home Router** and drag and place it on your blank canvas and a router should appear!
+
+![Screenshot 3](/assets/img/Screenshot 3 - Guest Network.png)
+
+Next we'll go to the **End Devices** tab and we'll click on **Laptop** and place 2 of them on the canvas.
+
+![Screenshot 4](/assets/img/Screenshot 4 - Guest Network.png)
+
+After you placed them on the canvas, you'll see a router and two laptops on your screen.
+
+![Screenshot 5](/assets/img/Screenshot 5 - Guest Network.png)
+
