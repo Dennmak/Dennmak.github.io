@@ -94,6 +94,14 @@ Now, after you've done all this, don't forget the most important step! Scroll do
 
 ![Screenshot 16](/assets/img/SCreenshot 16 - Guest Network.png)
 
+## It's Hardware Time
+
+Now it's time to mess with some hardware and make sure that our laptops can actually connect to our router.
+
+Double click on the first laptop and head to the **physical** tab to see a physical representation of your laptop and a long list of modules on the side.
+
+![Screenshot 17](/assets/img/SCreenshot 17 - Guest Network.png)
+
 
 
 
