@@ -58,7 +58,7 @@ Today is the day that we'll give our router a true name. A name it will never fo
 
 ![Screenshot 9](/assets/img/Screenshot 9 - Guest Network.png)
 
-We shall repeat this process for our guest network. On the left side you'll see a Wireless 2.4ghz option. Select that and you'll see the same SSID option to rename your guest network. In this case I decided to go with the most original name **Guest**.
+We shall repeat this process for our guest network. On the left side you'll see a Wireless Guest 2.4ghz option. Select that and you'll see the same SSID option to rename your guest network. In this case I decided to go with the most original name **Guest**.
 
 ![Screenshot 11](/assets/img/Screenshot 11 - Guest Network.png)
 
