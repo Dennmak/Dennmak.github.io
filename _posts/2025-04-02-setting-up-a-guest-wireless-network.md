@@ -132,6 +132,17 @@ Now, turn the laptop back on by pressing the power button and we should be set f
 
 ![Screenshot 21](/assets/img/Screenshot 21 - Guest Network.png)
 
+## It's Time to Connect!
+
+It's time to connect and get to the main reason as to why we're here! 
+
+Head back to laptop #1 and go to the **desktop** setting. A lot of options will pop up, but what we're looking for is to select **PC Wireless**. 
+
+![Screenshot 22](/assets/img/Screenshot 22 - Guest Network.png)
+
+
+
+
 
 
 
