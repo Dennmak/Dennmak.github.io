@@ -140,6 +140,25 @@ Head back to laptop #1 and go to the **desktop** setting. A lot of options will 
 
 ![Screenshot 22](/assets/img/Screenshot 22 - Guest Network.png)
 
+A new menu will pop up. Select the **connect* tab.
+
+Hit refresh and the list should populate with networks.
+
+Select the main network, in my case it'll be *The Awesome Router* and after that hit connect.
+
+![Screenshot 23](/assets/img/Screenshot 23 - Guest Network.png)
+
+A new menu should pop up and this one is where the authentication happens. 
+
+Type your passkey into the box next to **pre-shared key**.
+
+Once that's done, hit connect and your laptop should now be connected to the main network! Woohoo!
+
+![Screenshot 24](/assets/img/Screenshot 24 - Guest Network.png)
+
+
+
+
 
 
 
