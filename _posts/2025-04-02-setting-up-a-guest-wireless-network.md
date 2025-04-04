@@ -102,6 +102,26 @@ Double click on the first laptop and head to the **physical** tab to see a physi
 
 ![Screenshot 17](/assets/img/Screenshot 17 - Guest Network.png)
 
+Let's get into the thick of it!
+
+1.) Press the small circle power button to turn off your laptop.
+
+2.) Drag the module in your laptop into the module list on the left. This will leave a blank black space with no module inserted.
+
+3.) Drag **WPC300N** from the module list into the empty slot on your laptop. 
+
+![Screenshot 18](/assets/img/Screenshot 18 - Guest Network.png)
+
+If you followed the steps above, you'll have a new adapter in your laptop. 
+
+Now, turn the laptop back on by pressing the power button and we should be set for laptop 1.
+
+![Screenshot 19](/assets/img/Screenshot 19 - Guest Network.png)
+
+
+
+
+
 
 
 
