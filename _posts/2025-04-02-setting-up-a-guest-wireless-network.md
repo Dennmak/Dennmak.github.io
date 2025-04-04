@@ -180,7 +180,7 @@ Now both laptops are connected to the router! Your adapters are working! It's a 
 
 Congratulations! You've made it through the tutorial! If you followed along correctly, you'll have managed to set up a main network, guest network, and connected two laptops to a router. Phew, it was quite a journey, but you did it! 
 
-**P.S** I used Cisco Packet Tracer to simulate how to set up a wireless network. This process may differ from your own router at home and it won't be as simple if you're trying to switch out physical parts on your laptop or desktops. However, the premise is similar and now you're one step closer being a networking wizard. 
+P.S I used Cisco Packet Tracer to simulate how to set up a wireless network. This process may differ from your own router at home and it won't be as simple if you're trying to switch out physical parts on your laptop or desktops. However, the premise is similar and now you're one step closer being a networking wizard. 
 
 (Please do your research before attempting this process! Find out the model of what router you have and if any problems arise look at your device manual!)
 
