@@ -140,7 +140,7 @@ Head back to laptop #1 and go to the **desktop** setting. A lot of options will 
 
 ![Screenshot 22](/assets/img/Screenshot 22 - Guest Network.png)
 
-A new menu will pop up. Select the **connect* tab.
+A new menu will pop up. Select the **connect** tab.
 
 Hit refresh and the list should populate with networks.
 
