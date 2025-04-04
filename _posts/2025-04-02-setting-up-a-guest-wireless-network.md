@@ -118,7 +118,7 @@ Now, turn the laptop back on by pressing the power button and we should be set f
 
 ![Screenshot 19](/assets/img/Screenshot 19 - Guest Network.png)
 
-We'll head to latop #2 and repeat the same process again.
+We'll head to laptop #2 and repeat the same process again.
 
 1.) Press the small circle power button to turn off your laptop.
 
