@@ -156,6 +156,21 @@ Once that's done, hit connect and your laptop should now be connected to the mai
 
 ![Screenshot 24](/assets/img/Screenshot 24 - Guest Network.png)
 
+We're going to repeat this process but for laptop #2.
+
+Head to laptop #2, select the desktop tab, and then **PC Wireless**.
+
+![Screenshot 25](/assets/img/Screenshot 25 - Guest Network.png)
+
+Select the **connect** tab, hit refresh, select **Guest**, and then connect!
+
+![Screenshot 26](/assets/img/Screenshot 26 - Guest Network.png)
+
+Type your passkey into the box next to **pre-shared key**.
+
+Once that's done, hit connect and your laptop should now be connected to the guest network! Woohoo!
+
+![Screenshot 27](/assets/img/Screenshot 27 - Guest Network.png)
 
 
 
