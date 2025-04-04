@@ -172,6 +172,9 @@ Once that's done, hit connect and your laptop should now be connected to the gue
 
 ![Screenshot 27](/assets/img/Screenshot 27 - Guest Network.png)
 
+Now both laptops are connected to the router! Your adapters are working! It's a miracle! It's the networking circle of life! Isn't it beautiful?
+
+![Screenshot 28](/assets/img/Screenshot 28 - Guest Network.png)
 
 
 
