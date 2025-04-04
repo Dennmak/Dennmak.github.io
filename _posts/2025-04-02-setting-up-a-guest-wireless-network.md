@@ -40,7 +40,7 @@ After you placed them on the canvas, you'll see a router and two laptops on your
 
 ## The Awesome Router
 
-Double click your router on the canvas and you'll see a menu pop up. Click config and you should see the **global settings** menu pop up with a menu stating **Display Name**. Overall, this helps with organization and is optional but in my case I renamed it as **The Awesome Router**. 
+Double click your router on the canvas and you'll see a menu pop up. Click config and you should see the **global settings** menu pop up with a menu stating **Display Name**. Overall, this helps with organization and is optional but in my case I decided to rename it as **The Awesome Router**. 
 
 ![Screenshot 6](/assets/img/Screenshot 6 - Guest Network.png)
 
