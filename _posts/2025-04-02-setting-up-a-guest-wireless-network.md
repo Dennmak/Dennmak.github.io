@@ -74,4 +74,30 @@ We'll do the same thing for our guest network and we'll head to **wireless guest
 
 ![Screenshot 12](/assets/img/SCreenshot 12 - Guest Network.png)
 
+## The GUI
+
+Next we'll head to the GUI tab of the router and this is where the fun begins! It's GUI time!
+
+Head to the **Wireless** and then **basic wireless settings** tab underneath it. This will show all the channels that are currently being shown.
+
+![Screenshot 13](/assets/img/SCreenshot 13 - Guest Network.png)
+
+We want to reduce clutter and have only our main network and guest network enabled, so disable both 5 ghz 1 and 5 ghz 2. This will disable both channels so they won't show up in active networks in the wifi list when we attempt to connect to them with our laptops.
+
+![Screenshot 14](/assets/img/SCreenshot 14 - Guest Network.png)
+
+Now, head to the guest network tab and select **enable guest profile**. This will activate the guest network and allow it to be shown on the active wifi list!
+
+![Screenshot 15](/assets/img/SCreenshot 15 - Guest Network.png)
+
+Now, after you've done all this, don't forget the most important step! Scroll down and select **save settings**. Everything that you have just done will be reverted if you don't save.
+
+![Screenshot 16](/assets/img/SCreenshot 16 - Guest Network.png)
+
+
+
+
+
+
+
 
