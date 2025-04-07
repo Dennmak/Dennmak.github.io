@@ -40,3 +40,30 @@ I then connected the switch to a ISR4331 router with more copper straight-throug
 
 ![Screenshot 2](/assets/img/Screenshot 2 - Network Topology.png)
 
+## The Access Point
+
+My goal for this network was to incorporate a wireless access point and connect devices to it.
+
+I started off with three cell phones to act as end devices and connected them to an Access Point-PT unit. I then connected the access point to a 2960-24TT switch. I then placed three more laptops to act as more end devices. 
+
+My purpose for this was to see how I could support multiple devices on one wireless access point and to see if it could handle it.
+(I did not fully configure this network. It was meant to be an example and act as a framework or blueprint.)
+
+![Screenshot 3](/assets/img/Screenshot 3 - Network Topology.png)
+
+## The Firewall Cometh
+
+For this next network, I wanted to try and implement a firewall to secure the network. This network was a bit more simple and I wanted to set up a basic framework that would support it.
+
+I started off with two PC's as end devices which would connect to a 2960-24TT switch using copper straight-through cable.
+
+I then connected the 2960-24TT switch to a 5506-X firewall unit with copper straight-through cable. 
+
+(I did not fully configure this network. It was meant to be an example and act as a framework or blueprint.)
+
+![Screenshot 4](/assets/img/Screenshot 4 - Network Topology.png)
+
+
+
+
+
