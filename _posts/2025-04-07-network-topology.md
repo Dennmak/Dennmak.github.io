@@ -83,6 +83,6 @@ I decided to simulate a simple fiber connection using an end device PC and a rou
 
 ## It is Finished!
 
-I provided a examples of various types of networks and how you can configure them. There are many networks that support various purposes and each one has to be specialized for a specific use. If you're curious about learning more, install Cisco Packet Tracer and begin dabbling to become a true network architect! I'm still a beginner so these are mostly frameworks and starting points for more complicated networks.
+I provided a examples of various types of networks and how you can configure them. There are many networks that support various purposes and each one has to be specialized for a specific use. If you're curious about learning more, install Cisco Packet Tracer and begin dabbling to become a true network architect! I'm still a beginner so these are mostly frameworks and starting points for more complicated networks. Good luck on your journey!
 
 ![Ball](/assets/img/Ball picture - Network Topology.jpg)
