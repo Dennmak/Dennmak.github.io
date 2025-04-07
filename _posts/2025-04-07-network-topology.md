@@ -16,7 +16,7 @@ I'll be showing various network set ups and examples that may help you understan
 
 (P.S I used Cisco Packet Tracer as a simulation tool, so if you're curious in dabbling in it yourself, check it out.)
 
-![Spider Web](assets/img/Spiderweb - Network Topology.jpg)
+![Spider Web](/assets/img/Spiderweb - Network Topology.jpg)
 
 ## Routers and Switches
 
@@ -26,7 +26,7 @@ I connected the two switches to the router using copper straight-through cables 
 
 (I did not fully configure this network. It was meant to be an example and act as a framework or blueprint.)
 
-![Screenshot 1](assets/img/Screenshot 1 - Network Topology.png)
+![Screenshot 1](/assets/img/Screenshot 1 - Network Topology.png)
 
 ## The File Server
 
@@ -38,5 +38,5 @@ I then connected the switch to a ISR4331 router with more copper straight-throug
 
 (I did not fully configure this network. It was meant to be an example and act as a framework or blueprint.)
 
-![Screenshot 2](assets/img/Screenshot 2 - Network Topology.png)
+![Screenshot 2](/assets/img/Screenshot 2 - Network Topology.png)
 
