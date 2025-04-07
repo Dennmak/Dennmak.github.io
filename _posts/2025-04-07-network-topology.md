@@ -77,9 +77,10 @@ I connected a home router with Cat 5/6 to a PC end device to simulate a simple n
 
 I decided to simulate a simple fiber connection using an end device PC and a router which supports fiber. I connected both with a fiber cable and voilah, let there be light.
 
+(I did not fully configure this network. It was meant to be an example and act as a framework or blueprint.)
+
 ![Screenshot 6](/assets/img/Screenshot 6 - Network Topology.png)
 
-(I did not fully configure this network. It was meant to be an example and act as a framework or blueprint.)
 
 
 
