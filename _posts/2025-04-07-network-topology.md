@@ -63,6 +63,16 @@ I then connected the 2960-24TT switch to a 5506-X firewall unit with copper stra
 
 ![Screenshot 4](/assets/img/Screenshot 4 - Network Topology.png)
 
+## No Place Like Home
+
+I decided to create a very simple home network with one end device and a router.
+
+I connected a home router with Cat 5/6 to a PC end device to simulate a simple network. This is basically the barebones framework for most households in America. You could always add a router with more connection capability and ports to support more traffic and devices such as cellphones, laptops, and printers, but this would be where you would start off at.
+
+![Screenshot 5](/assets/img/Screenshot 5 - Network Topology.png)
+
+
+
 
 
 
