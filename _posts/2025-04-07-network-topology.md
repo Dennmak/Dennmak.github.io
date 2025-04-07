@@ -69,9 +69,17 @@ I decided to create a very simple home network with one end device and a router.
 
 I connected a home router with Cat 5/6 to a PC end device to simulate a simple network. This is basically the barebones framework for most households in America. You could always add a router with more connection capability and ports to support more traffic and devices such as cellphones, laptops, and printers, but this would be where you would start off at.
 
+(I did not fully configure this network. It was meant to be an example and act as a framework or blueprint.)
+
 ![Screenshot 5](/assets/img/Screenshot 5 - Network Topology.png)
 
+## It's Fiber Time
 
+I decided to simulate a simple fiber connection using an end device PC and a router which supports fiber. I connected both with a fiber cable and voilah, let there be light.
+
+![Screenshot 6](/assets/img/Screenshot 6 - Network Topology.png)
+
+(I did not fully configure this network. It was meant to be an example and act as a framework or blueprint.)
 
 
 
