@@ -29,4 +29,25 @@ In the bottom left corner select **Network Devices**, after that select **router
 
 ![Screenshot 1](/assets/img/Screenshot 1 - DHCP Server.png)
 
+Next, select **Network Devices** and then go to the **switch** tab. You will select the **2960** device and drag two of them onto your canvas.
+
+![Screenshot 2](/assets/img/Screenshot 2 - DHCP Server.png)
+
+You'll now have two switches and a router on your canvas! Isn't it beautiful?
+
+![Screenshot 3](/assets/img/Screenshot 3 - DHCP Server.png)
+
+Next, select the **end devices** tab and select the **PC**. We're going to place 6 of these PC's onto our canvas.
+
+![Screenshot 4](/assets/img/Screenshot 4 - DHCP Server.png)
+
+## It's Time to Connect
+
+Now, we're going to connect our router to our switches.
+
+Head to the **connections** tab and select **copper straight-through**. 
+
+![Screenshot 5](/assets/img/Screenshot 5 - DHCP Server.png)
+
+
 
