@@ -73,5 +73,54 @@ Now we have our network with a router, two switches, and 6 PC's! Isn't it just a
 
 ![Screenshot 10](/assets/img/Screenshot 10 - DHCP Server.png)
 
+## The Fun Begins
 
+Things may get a little complicated here so pay attention! 
 
+Head to the **CLI** tab in your router.
+
+![Screenshot 11](/assets/img/Screenshot 11 - DHCP Server.png)
+
+Copy down the information from the screenshot into your terminal. It may or may not vary based on the router that you chose. This will configure your router and start the process for setting up DHCP.
+
+![Screenshot 12](/assets/img/Screenshot 12 - DHCP Server.png)
+
+## The First Switch
+
+Now we'll configure the first switch and enable DHCP. Copy the information from the screenshot into your own terminal.
+
+![Screenshot 13](/assets/img/Screenshot 13 - DHCP Server.png)
+
+## The Second Switch
+
+Next, we'll follow the same process but do it for the second switch. Copy the information from the screenshot and input it into your terminal.
+
+![Screenshot 14](/assets/img/Screenshot 14 - DHCP Server.png)
+
+## The DNS Conundrum
+
+If you desire to change your DNS for your gateway on our switches, follow the next steps. I'm switching mine to 8.8.8.8 and it'll show when we connect our DHCP to our devices.
+
+![Screenshot 15](/assets/img/Screenshot 15 - DHCP Server.png)
+
+We'll do it to the second switch as well.
+
+![Screenshot 16](/assets/img/Screenshot 16 - DHCP Server.png)
+
+## The Desktop
+
+Now we'll head to your first PC and head to the **desktop** tab. You'll then select **IP Configuration** tab.
+
+![Screenshot 17](/assets/img/Screenshot 17 - DHCP Server.png)
+
+Select the **DCHP tab** and the information there should refresh after a few seconds.
+
+![Screenshot 18](/assets/img/Screenshot 18 - DHCP Server.png)
+
+Repeat this process for the rest of your PC's and you should she DHCP enabled on all of them! 
+
+## It is Finished!
+
+Congratulations! You have now set up and configured DHCP for your network! Devices that connect to your network will now have their IP automatically assigned! This process may vary if you have different hardware at home but the concept remains the same. Great job and thanks for sticking with me!
+
+![Screenshot 19](/assets/img/Screenshot 19 - DHCP Server.png)
