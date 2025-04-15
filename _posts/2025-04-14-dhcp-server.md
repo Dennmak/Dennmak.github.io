@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dhcp Server
+title: DHCP Server
 subtitle: Setup and Configuration
 cover-img: assets/img/Blue Background -Network Topology.jpg
 thumbnail-img: assets/img/Share - DHCP Server.jpg
