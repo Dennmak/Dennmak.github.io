@@ -49,5 +49,29 @@ Head to the **connections** tab and select **copper straight-through**.
 
 ![Screenshot 5](/assets/img/Screenshot 5 - DHCP Server.png)
 
+Select your router and select the **gigabit ethernet 0/0** connection.
+
+![Screenshot 6](/assets/img/Screenshot 6 - DHCP Server.png)
+
+Now, go to your 1st switch and select **Fast Ethernet 0/1**.
+
+![Screenshot 7](/assets/img/Screenshot 7 - DHCP Server.png)
+
+Repeat these steps for the 2nd switch.
+
+Now you should have both switches connected to the router by cable.
+
+![Screenshot 8](/assets/img/Screenshot 8 - DHCP Server.png)
+
+Now, go to the connections tab in bottom left corner and select **automatically choose connection**. This will automatically pick the cable needed. Now, connect your switches to your PC devices! 
+
+If we want to do it manually, we'll use copper straight-through for this process but Cisco Packet Tracer automates a few things to make the process less tedious. 
+
+![Screenshot 9](/assets/img/Screenshot 9 - DHCP Server.png)
+
+Now we have our network with a router, two switches, and 6 PC's! Isn't it just a beautiful sight?
+
+![Screenshot 10](/assets/img/Screenshot 10 - DHCP Server.png)
+
 
 
