@@ -20,3 +20,13 @@ There are many acronyms in the tech world and today's acronym will be DHCP or Dy
 Today we're going to be using Cisco Packet Tracer to set up and configure DHCP in a router which will be the focal point for communication between switches and devices. This will be a digital representation which will mimick a real life scenario with actual hardware. Ready? Let's go!
 
 ![Lemur](/assets/img/Lemur - Guest Network.jpg)
+
+## The Show Begins
+
+We'll start off with opening Cisco Packet Tracer. On start up you'll have a blank canvas with nothing on it.
+
+In the bottom left corner select **Network Devices**, after that select **router** and then the **2911** router. Drag this router onto your canvas in any spot that you desire!
+
+![Screenshot 1](/assets/img/Screenshot 1 - DHCP Server.png)
+
+
