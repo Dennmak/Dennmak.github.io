@@ -99,7 +99,7 @@ Next, we'll follow the same process but do it for the second switch. Copy the in
 
 ## The DNS Conundrum
 
-If you desire to change your DNS for your gateway on our switches, follow the next steps. I'm switching mine to 8.8.8.8 and it'll show when we connect our DHCP to our devices.
+If you desire to change your DNS for your gateway on our switches, follow the next steps. I'm switching mine to 8.8.8.8 and it'll show when we change our devices to DHCP.
 
 ![Screenshot 15](/assets/img/Screenshot 15 - DHCP Server.png)
 
