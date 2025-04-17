@@ -81,5 +81,48 @@ At the end, you should see the switches connected to the router!
 
 ![Screenshot 14](/assets/img/Screenshot 14 - Proxy.jpg)
 
+Next we're going to be connecting our switches to the servers.
+
+Go to the connections tab and select **copper cross-over cable**.
+
+![Screenshot 15](/assets/img/Screenshot 15 - Proxy.jpg)
+
+Select the first switch and select **fast ethernet 0/2**. You'll then connect it to the first server in the port **fast ethernet 0**.
+
+![Screenshot 16](/assets/img/Screenshot 16 - Proxy.jpg)
+
+Repeat that process with the other server with the same **copper cross-over cable**.
+
+Now we should have our switches connected to our servers with cables.
+
+![Screenshot 18](/assets/img/Screenshot 18 - Proxy.jpg)
+
+Now, we're going to connect our PC end devices to our switches.
+
+Head to the connections tab and select **copper cross-over cable**. 
+
+![Screenshot 19](/assets/img/Screenshot 19 - Proxy.jpg)
+
+Select the first computer while using the cable and a port called **fast ethernet 0** should pop up. Select it.
+
+![Screenshot 20](/assets/img/Screenshot 20 - Proxy.jpg)
+
+Attach it to the first switch and you should see a port called **fast ethernet 0/3**.
+
+![Screenshot 21](/assets/img/Screenshot 21 - Proxy.jpg)
+
+Repeat this process for the 2nd PC and attach it to the first switch.
+
+After that, head over to the second switch and connect both computers to the second switch.
+
+At the end of your process, it should look like this. Do you see how the switches are connected to the PC's? 
+
+![Screenshot 22](/assets/img/Screenshot 22 - Proxy.jpg)
+
+
+
+
+
+
 
 
