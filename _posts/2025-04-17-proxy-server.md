@@ -179,6 +179,20 @@ Get ready to repeat the process and head to **gigabit ethernet 0/0/1**. Change t
 
 ## PC Connection
 
+Now it's time to connect the computers! Select the first PC and select **desktop** and then **IP configuration**. 
+
+![Screenshot 33](/assets/img/Screenshot 33 - Proxy.jpg)
+
+You'll then see the option under IP configuration to switch from **static** to **dhcp**.
+
+Select DHCP and you should see the message of "DHCP request successful"
+
+![Screenshot 34](/assets/img/Screenshot 34 - Proxy.jpg)
+
+Now repeat this process for the rest of the PC's and you should be all done and your network should be all green and running perfectly!
+
+![Screenshot 35](/assets/img/Screenshot 35 - Proxy.jpg)
+
 
 
 
