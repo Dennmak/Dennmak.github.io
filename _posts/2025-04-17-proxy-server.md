@@ -59,4 +59,27 @@ Now our network is finally complete with our servers set up!
 
 ## It's Time to Connect
 
+We're going to start connecting our hardware together and begin configuring it.
+
+Head to the connections tab and select **copper cross-over cable**.
+
+![Screenshot 9](/assets/img/Screenshot 9 - Proxy.jpg)
+
+Select the first switch and pick the port **fast ethernet 0/1** and attach it to our router. When selecting the router you'll see **giga ethernet 0/0/0**, connect to that.
+
+![Screenshot 10](/assets/img/Screenshot 10 - Proxy.jpg)
+
+![Screenshot 11](/assets/img/Screenshot 11 - Proxy.jpg)
+
+Now head to the other switch and repeat the process with **copper cross-over cable**. Select the other switch and pick **fast ethernet 0/1**. Attach it to the router in the port **giga ethernet 0/0/1**.
+
+![Screenshot 12](/assets/img/Screenshot 12 - Proxy.jpg)
+
+![Screenshot 13](/assets/img/Screenshot 13 - Proxy.jpg)
+
+At the end, you should see the switches connected to the router!
+
+![Screenshot 14](/assets/img/Screenshot 14 - Proxy.jpg)
+
+
 
