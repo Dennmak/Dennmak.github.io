@@ -119,6 +119,56 @@ At the end of your process, it should look like this. Do you see how the switche
 
 ![Screenshot 22](/assets/img/Screenshot 22 - Proxy.jpg)
 
+## Time to Configure
+
+Now comes the complicated part. We're going to configure all of our devices so they're communicating properly.
+
+We're going to start off by selecting our first server and selecting the **desktop** tab. We're then going to choose **IP Configuration**.
+
+![Screenshot 23](/assets/img/Screenshot 23 - Proxy.jpg)
+
+Edit the information in the red box with what I've provided. We're going to change the IPv4 address, gateway, and subnet mask.
+
+![Screenshot 24](/assets/img/Screenshot 24 - Proxy.jpg)
+
+Head to the services tab and see if **HTTP** and **HTTPS** are checked on. 
+
+![Screenshot 25](/assets/img/Screenshot 25 - Proxy.jpg)
+
+Now head to the **DHCP** tab and make sure you input all the information that I have provided into your own box.
+
+When you're done with this process, turn the **service** to **on**.
+
+Last but not least, remember to **save** or all of this was a waste!
+
+![Screenshot 26](/assets/img/Screenshot 26 - Proxy.jpg)
+
+Now, head to your other server and we're going to repeat this process.
+
+Select the **desktop** tab and select **IP Configuration**.
+
+![Screenshot 27](/assets/img/Screenshot 27 - Proxy.jpg)
+
+Now, make sure that the information in your own box lines up with what I've highlighted in red.
+
+![Screenshot 28](/assets/img/Screenshot 28 - Proxy.jpg)
+
+Check the services tab and make sure **HTTP** and **HTTPS** are checked on. 
+
+![Screenshot 29](/assets/img/Screenshot 29 - Proxy.jpg)
+
+Now head to the **DHCP** tab and make sure you input all the information that I have provided into your own box.
+
+When you're done with this process, turn the **service** to **on**.
+
+Last but not least, remember to select **save** again or all of this was a waste.
+
+![Screenshot 30](/assets/img/Screenshot 30 - Proxy.jpg)
+
+
+
+
+
 
 
 
