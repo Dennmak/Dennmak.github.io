@@ -165,6 +165,20 @@ Last but not least, remember to select **save** again or all of this was a waste
 
 ![Screenshot 30](/assets/img/Screenshot 30 - Proxy.jpg)
 
+## It's Time to Route
+
+Now head into your router and select the **config** tab. Under interface you'll see **gigabit ethernet 0/0/0**.
+
+Input the information that I have provided in the Ipv4 and subnet mask boxes. Make sure the port status is set to **ON**.
+
+![Screenshot 31](/assets/img/Screenshot 31 - Proxy.jpg)
+
+Get ready to repeat the process and head to **gigabit ethernet 0/0/1**. Change the Ipv4 address and subnet mask. Make sure the port status is **ON**.
+
+![Screenshot 32](/assets/img/Screenshot 32 - Proxy.jpg)
+
+## PC Connection
+
 
 
 
