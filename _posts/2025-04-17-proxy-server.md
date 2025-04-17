@@ -193,6 +193,12 @@ Now repeat this process for the rest of the PC's and you should be all done and 
 
 ![Screenshot 35](/assets/img/Screenshot 35 - Proxy.jpg)
 
+## It is Finished!
+
+You did it! You have made a proxy server and configured it! It was a bit of a tedious process but you survived through it. There's a few advanced options that you can add to your network but I'll leave it to you to explore and discover what you can do. What's next on the agenda? No idea, stay tuned to find out more!
+
+![Puppy](/assets/img/Puppy Ending - Proxy.jpg)
+
 
 
 
