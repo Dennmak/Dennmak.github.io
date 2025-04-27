@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configuring PAT
+title: Configuring Port Address Translation
 subtitle: Setup and Configuration
 cover-img: assets/img/Blue Background -Network Topology.jpg
 thumbnail-img: assets/img/Proxy Share and Thumbnail - Proxy.jpg
