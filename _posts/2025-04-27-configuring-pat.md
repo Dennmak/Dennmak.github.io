@@ -76,11 +76,16 @@ Input this information into your CLI box to add an IP address.
 
 ![Screenshot 6](/assets/img/Screenshot 6 - Configuring PAT.png)
 
+Now, we're going to be configuring NAT overload (PAT). Input the same script that I have put in. This will configure PAT.
 
+![Screenshot 7](/assets/img/Screenshot 7 - Configuring PAT.png)
 
+![Screenshot 8](/assets/img/Screenshot 8 - Configuring PAT.png)
 
+With that last step, PAT should be configured on your network. If you desire to further test the connectivity, you can open up command prompt on either of your PC's and ping an ip address. This should reflect on whether it is working or not and provide said results.
 
+## It Is Finished!
 
+You have succuessfully configured PAT in your network and now you can replicate this on your own networks! It got a bit complicated in the CLI portion but you managed to follow along. Congratulations and awesome job! What's next on the agenda? Stay tuned for more network tutorials in the future!
 
-
-
+![Overjoyed Dog](/assets/img/Overjoyed Dog - Configuring PAT.jpg)
