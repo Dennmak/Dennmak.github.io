@@ -14,7 +14,7 @@ What's a PAT? Well, I'm glad you asked. PAT is a type of network address transla
 
 We're going to set up and configure a PAT using Cisco Packet Tracer. IIt might get a little complicated and tedious but I trust you'll get it down. Are you ready? Let's get started. 
 
-![Happy Dog](/assets/img/Happy Dog - Proxy.jpg)
+![Happy Dog](/assets/img/Happy Dog - Configuring PAT.jpg)
 
 ## The Journey Begins
 
