@@ -86,6 +86,6 @@ With that last step, PAT should be configured on your network. If you desire to 
 
 ## It Is Finished!
 
-You have succuessfully configured PAT in your network and now you can replicate this on your own networks! It got a bit complicated in the CLI portion but you managed to follow along. Congratulations and awesome job! What's next on the agenda? Stay tuned for more network tutorials in the future!
+You have successfully configured PAT in your network and now you can replicate this on your own networks! It got a bit complicated in the CLI portion but you managed to follow along. Congratulations and awesome job! What's next on the agenda? Stay tuned for more network tutorials in the future!
 
 ![Overjoyed Dog](/assets/img/Overjoyed Dog - Configuring PAT.jpg)
