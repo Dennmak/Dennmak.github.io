@@ -18,7 +18,7 @@ We're going to set up and configure a PAT using Cisco Packet Tracer. It might ge
 
 ## The Journey Begins
 
-We're going to get started by opening up Cisco Packet Tracer. Our goal for today is to set up a PAT and configure. 
+We're going to get started by opening up Cisco Packet Tracer. Our goal for today is to set up a PAT and configure it. 
 
 Step 1: Place 2 PC's on the canvas.
 
