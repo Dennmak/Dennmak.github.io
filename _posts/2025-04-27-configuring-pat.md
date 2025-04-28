@@ -16,4 +16,71 @@ We're going to set up and configure a PAT using Cisco Packet Tracer. IIt might g
 
 ![Happy Dog](/assets/img/Happy Dog - Proxy.jpg)
 
+## The Journey Begins
+
+We're going to get started by opening up Cisco Packet Tracer. Our goal for today is to set up a PAT and configure. 
+
+Step 1: Place 2 PC's on the canvas.
+
+Step 2: Place 1 switch on the canvas.
+
+Step 3: Place 2 routers on the canvas.
+
+This will be the framework of our network.
+
+![Screenshot 1](/assets/img/Screenshot 1 - Configuring PAT.png)
+
+## It's Time to Make Connections
+
+Next we're going to connect our devices together with cable. In this screenshot example we'll be using **red** for copper straight-through cable and **blue** for copper-cross over cable.
+
+We'll start off by using **copper straight-through** cable.
+
+Step 1: Connect the PC's to the switch with copper straight through.
+
+Step 2: Connect the switch to Router 0 with copper straight through.
+
+Step 3: Connect Router 0 to Router 1 with **copper cross-over** cable. 
+
+![Screenshot 2](/assets/img/Screenshot 2 - Configuring PAT.png)
+
+## Configuration
+
+Next we'll configure our PC's.
+
+Head to PC0 and then desktop and ip configuration.
+
+Fill in the box on your screen with the information provided.
+
+Ipv4: 192.168.10.10
+Subnet Mask: 255.255.255.0
+Default Gateway: 192.168.10.1
+
+![Screenshot 3](/assets/img/Screenshot 3 - Configuring PAT.png)
+
+Next, head to PC1 and repeat the same steps and input the information provided.
+
+Ipv4: 192.168.10.20
+Subnet Mask: 255.255.255.0
+Default Gateway: 192.168.10.1
+
+![Screenshot 4](/assets/img/Screenshot 4 - Configuring PAT.png)
+
+## It's CLI Time
+
+This next step may be a bit much but do your best to follow along! We're going to be assigning IP's to routers, devices, and configuring NAT overload aka PAT.
+
+Input this information into your CLI box to add an IP address.
+
+![Screenshot 5](/assets/img/Screenshot 5 - Configuring PAT.png)
+
+![Screenshot 6](/assets/img/Screenshot 6 - Configuring PAT.png)
+
+
+
+
+
+
+
+
 
