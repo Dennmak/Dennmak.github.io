@@ -68,7 +68,7 @@ Default Gateway: 192.168.10.1
 
 ## It's CLI Time
 
-This next step may be a bit much but do your best to follow along! We're going to be assigning IP's to routers, devices, and configuring NAT overload aka PAT.
+This next step may be a bit much but do your best to follow along! We're going to be assigning IP's to routers, devices, and configuring NAT overload aka PAT with the CLI terminal.
 
 Input this information into your CLI box to add an IP address.
 
@@ -76,7 +76,7 @@ Input this information into your CLI box to add an IP address.
 
 ![Screenshot 6](/assets/img/Screenshot 6 - Configuring PAT.png)
 
-Now, we're going to be configuring NAT overload (PAT). Input the same script that I have put in. This will configure PAT.
+Now, we're going to be configuring NAT overload (PAT). Input what I have put in. This will configure PAT.
 
 ![Screenshot 7](/assets/img/Screenshot 7 - Configuring PAT.png)
 
