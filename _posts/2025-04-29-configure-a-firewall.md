@@ -22,15 +22,15 @@ Anywho, let's get started and get this basic firewall up and running!
 
 We're going to get started in Cisco Packet Tracer and we're going to place 1 PC, 1 server, and 1 switch.
 
-![Screenshot 1](assets/img/Screenshot 1 - Configure a Firewall.png
+![Screenshot 1](assets/img/Screenshot 1 - Configure a Firewall.png)
 
 Next, we're going to connect our devices together. Head to the connections tab and select **automatically choose connection type**.
 
-![Screenshot 2](assets/img/Screenshot 2 - Configure a Firewall.png
+![Screenshot 2](assets/img/Screenshot 2 - Configure a Firewall.png)
 
  We're then going to connect the server to the switch, and the switch to the PC.
 
-![Screenshot 3](assets/img/Screenshot 3 - Configure a Firewall.png
+![Screenshot 3](assets/img/Screenshot 3 - Configure a Firewall.png)
 
 ## Time to Configure
 
