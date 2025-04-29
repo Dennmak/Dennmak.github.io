@@ -18,6 +18,8 @@ I'll be showing various network set ups and examples that may help you understan
 
 ![Spider Web](/assets/img/Spiderweb - Network Topology.jpg)
 
+![Screenshot One](assets/img/Screenshot 1 - Configure a Firewall.png)
+
 ## Routers and Switches
 
 In this model I used a combination of a router and switches. I started off with a 2911 router and two 2960-24TT switches. I then added four PC's to the network to act as end devices. 
