@@ -8,6 +8,7 @@ share-img: assets/img/Firewall Thumbnail and Share - Configure a Firewall.jpg
 tags: [Networking, Tutorial, Cybersecurity]
 author: Dennis Maksimov
 ---
+
 ## How to Set Up a Firewall
 
 Ever wondered how to set up a firewall? Well, I'm going to show you today using Cisco Packet Tracer! What's a firewall you say? No, a firewall isn't a giant wall made out of fire but a security measure in a network that acts as a barrier. It monitors inbound and outbound traffic based on what rules are in place. 
