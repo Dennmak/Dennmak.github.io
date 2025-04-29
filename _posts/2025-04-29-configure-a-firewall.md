@@ -54,9 +54,40 @@ Now we're going to ping one of our IP addresses to see if they're up and accessa
 
 ![Screenshot 6](assets/img/Screenshot 6 - Configure a Firewall.png)
 
+## Let there be fire!
 
+Now we're going to configure our firewall! Aren't you excited? I am!
 
+Head to your server and go to desktop, firewall, and you shall see a whole list of options.
 
+For the first action, we're going to turn on the firewall. Select the **On** option in the service box. 
 
+Next select **deny**, pick **ICMP** into the protocol. For the remote wildcard mask enter in **255.255.255.255**. Once that's all done, select **add**.
 
+![Screenshot 7](assets/img/Screenshot 7 - Configure a Firewall.png)
 
+Next we're going to create an **allow rule**. 
+
+Select **allow**, pick **IP** into the protocol. For the IP enter in **0.0.0.0**. For the remote wildcard mask enter in **255.255.255.255**. Once that's all done, select **add**.
+
+![Screenshot 8](assets/img/Screenshot 8 - Configure a Firewall.png)
+
+## More Testing!
+
+Now we're going to see if the previous IP is able to be reached. Head to your PC, head into desktop, and then command prompt.
+
+Type **ping 192.168.0.1** and we'll see that it's timing out! This shows that our firewall is now active, woohoo!
+
+![Screenshot 9](assets/img/Screenshot 9 - Configure a Firewall.png)
+
+Next, head to the desktop top on your PC and open up the browser. We're going to see if we can reach the IP. Type **192.168.0.1** into the address bar! 
+
+It works! Wow! Our firewall rules are now active and our firewall is too! Great job!
+
+![Screenshot 10](assets/img/Screenshot 10 - Configure a Firewall.png)
+
+## It Is Finished!
+
+You have now set up and configured a basic firewall set up! Congratulations! We were using Cisco Packet Tracer but this can apply to your own devices at home as well. We only implemented two rules but with a real firewall at home or in a corporate building it can get a **LOT** more complicated. Nonetheless, awesome job and keep exploring with your firewall to see what else you can do. Please do be careful though as you're literally playing with fire. 
+
+1[Happy Dolphins](/assets/img/Happy Dolphins - Configure a Firewall.jpg)
