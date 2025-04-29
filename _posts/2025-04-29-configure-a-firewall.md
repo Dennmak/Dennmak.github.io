@@ -90,4 +90,4 @@ It works! Wow! Our firewall rules are now active and our firewall is too! Great 
 
 You have now set up and configured a basic firewall set up! Congratulations! We were using Cisco Packet Tracer but this can apply to your own devices at home as well. We only implemented two rules but with a real firewall at home or in a corporate building it can get a **LOT** more complicated. Nonetheless, awesome job and keep exploring with your firewall to see what else you can do. Please do be careful though as you're literally playing with fire. 
 
-![Happy Dolphins](/assets/img/Happy Dolphins - Configure a Firewall.jpg
+![Happy Dolphins](/assets/img/Happy Dolphins - Configure a Firewall.jpg)
