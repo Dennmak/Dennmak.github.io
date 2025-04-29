@@ -18,7 +18,7 @@ I'll be showing various network set ups and examples that may help you understan
 
 ![Spider Web](/assets/img/Spiderweb - Network Topology.jpg)
 
-![Screenshot One](assets/img/Screenshot 1 - Configure a Firewall.png)
+![Screenshot 1](/assets/img/Screenshot 1 - Configure a Firewall.png)
 
 ## Routers and Switches
 
