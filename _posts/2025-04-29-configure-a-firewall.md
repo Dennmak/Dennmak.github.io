@@ -16,7 +16,7 @@ Why's it needed? Well, think of your front door being unlocked and anyone can ge
 
 Anywho, let's get started and get this basic firewall up and running!
 
-![Happy Dolphin](assets/img/Happy Dolphin - Configure a Firewall.jpg)
+![Happy Dolphin](assets/img/Happy Dolphin - Configure a Firewall.jpg
 
 ## The Basic Layout
 
