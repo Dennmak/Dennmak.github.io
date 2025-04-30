@@ -45,13 +45,13 @@ Set your port status to **on**. Next, set the IPv4 address to **192.168.1.1** an
 
 Now we're going to head to our first PC and assign some IP's. Go to your PC, hit desktop, and then IP configuration. 
 
-Set IPv4 to **192.168.1.2**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to 192.168.1.1**.
+Set IPv4 to **192.168.1.2**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to **192.168.1.1**.
 
 ![Screenshot 4](/assets/img/Screenshot 4 - Setting Up Https.png)
 
 Go to the next PC and we're going to repeat the same steps. Select the PC, hit desktop, IP configuration. 
 
-Set IPv4 to **192.168.1.3**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to 192.168.1.1**.
+Set IPv4 to **192.168.1.3**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to **192.168.1.1**.
 
 ![Screenshot 5](/assets/img/Screenshot 5 - Setting Up Https.png)
 
