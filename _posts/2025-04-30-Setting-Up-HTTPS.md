@@ -71,7 +71,7 @@ Set IPv4 to **192.168.1.10**. Next, set the subnetmask to **255.255.255.0**. Aft
 
 We're going to configure our servers now and enable HTTP and HTTPS on them. Are you ready?
 
-Head to the first server and select **services**. Turn **HTTPS** to **Off** and make sure that **HTTP** is set to **on**.
+Head to the first server and select **services**. Turn **HTTPS** to **off** and make sure that **HTTP** is set to **on**.
 
 ![Screenshot 8](/assets/img/Screenshot 8 - Setting Up Https.png)
 
@@ -92,7 +92,6 @@ Head to the first PC and go to desktop and then browser. Type **http://192.168.1
 Next, head to the second PC and go to desktop and then browser. Type **https://192.168.1.10** into the address bar and press enter or go. You should be able to connect and it looks like https is working! Wooho, we're secure!
 
 ![Screenshot 11](/assets/img/Screenshot 11 - Setting Up Https.png)
-
 
 ## It Is Finished
 
