@@ -67,6 +67,39 @@ Set IPv4 to **192.168.1.10**. Next, set the subnetmask to **255.255.255.0**. Aft
 
 ![Screenshot 7](/assets/img/Screenshot 7 - Setting Up Https.png)
 
+## HTTP and HTTPS Time!
+
+We're going to configure our servers now and enable HTTP and HTTPS on them. Are you ready?
+
+Head to the first server and select **services**. Turn **HTTPS** to **Off** and make sure that **HTTP** is set to **on**.
+
+![Screenshot 8](/assets/img/Screenshot 8 - Setting Up Https.png)
+
+Now, head to the second server and select **services**. Turn **HTTPS** to **On** and make sure that **HTTP** is set to **off**.
+
+![Screenshot 9](/assets/img/Screenshot 9 - Setting Up Https.png)
+
+This will have our servers be the host of HTTPS and HTTP individually.
+
+## Time to Test
+
+Now we're going to see if our efforts paid off and test the connectivity! We're going to be using both of our PC's to see if we can connect to an IP through the browser.
+
+Head to the first PC and go to desktop and then browser. Type **http://192.168.1.5** into the address bar and press enter or go. You should be able to connect and it looks like http is working! Woohoo!
+
+![Screenshot 10](/assets/img/Screenshot 10 - Setting Up Https.png)
+
+Next, head to the second PC and go to desktop and then browser. Type **https://192.168.1.10** into the address bar and press enter or go. You should be able to connect and it looks like https is working! Wooho, we're secure!
+
+![Screenshot 11](/assets/img/Screenshot 11 - Setting Up Https.png)
 
 
+## It Is Finished
 
+Mission accomplished! Congratulations! You have followed along and we have set up http and https! It wasn't too hard and now you know the basic premise of how to do this. 
+
+In the future when you're setting up a website or you're browsing make sure that HTTPS is enabled. It's more secure and you can breathe easier knowing that your information is safe. If you input sensitive information such as your credit card or banking info into a HTTP website then attackers can intercept that information and you'll have a really bad time.
+
+Thanks for following along and hopefully this helped! 
+
+![Happy Fish End](/assets/img/Happy Fish End - Setting Up Https.jpg)
