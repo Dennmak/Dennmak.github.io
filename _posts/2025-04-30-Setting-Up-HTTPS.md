@@ -21,7 +21,7 @@ We're going to be using Cisco Packet Tracer to set up a network which has a HTTP
 
 ## Let's Get Started!
 
-So we're going to get Cisco Packet Tracer fired up and then we're going to set up the framework for our network. Start off by placing 2 PC's, 1 switch, 2 servers, and a router. This is going to be how our network is going to look.
+So we're going to get Cisco Packet Tracer fired up and then we're going to set up the framework for our network. Start off by placing 2 PC's, 1 switch, 2 servers, and a router. This is what our network is going to look like.
 
 ![Screenshot 1](/assets/img/Screenshot 1 - Setting Up Https.png)
 
