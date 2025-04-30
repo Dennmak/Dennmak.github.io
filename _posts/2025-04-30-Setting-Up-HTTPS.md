@@ -33,4 +33,40 @@ Now, connect both of your PC's to the switch. Then connect each server to the sw
 
 ![Screenshot 2.5](/assets/img/Screenshot 2.5 - Setting Up HTTPS.png)
 
+## IP Assignment Time
+
+It's time to assign IP's to our devices! This might get a bit tedious but please stick with me and we'll get through it.
+
+Head to your router and go to the desktop tab, hit IP config, and then to the gigabitethernet 0/0 tab on the left under interface. 
+
+Set your port status to **on**. Next, set the IPv4 address to **192.168.1.1** and then the subnet mask to **255.255.255.0**.
+
+![Screenshot 3](/assets/img/Screenshot 3 - Setting Up Https.png)
+
+Now we're going to head to our first PC and assign some IP's. Go to your PC, hit desktop, and then IP configuration. 
+
+Set IPv4 to **192.168.1.2**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to 192.168.1.1**.
+
+![Screenshot 4](/assets/img/Screenshot 4 - Setting Up Https.png)
+
+Go to the next PC and we're going to repeat the same steps. Select the PC, hit desktop, IP configuration. 
+
+Set IPv4 to **192.168.1.3**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to 192.168.1.1**.
+
+![Screenshot 5](/assets/img/Screenshot 5 - Setting Up Https.png)
+
+Now head to the first server and go to IP configuration.
+
+Set IPv4 to **192.168.1.5**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to 192.168.1.1**.
+
+![Screenshot 6](/assets/img/Screenshot 6 - Setting Up Https.png)
+
+Now head to the second server and repeat these same steps.
+
+Set IPv4 to **192.168.1.10**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to 192.168.1.1**.
+
+![Screenshot 7](/assets/img/Screenshot 7 - Setting Up Https.png)
+
+
+
 
