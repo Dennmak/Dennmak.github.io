@@ -89,7 +89,7 @@ Head to the first PC and go to desktop and then browser. Type **http://192.168.1
 
 ![Screenshot 10](/assets/img/Screenshot 10 - Setting Up Https.png)
 
-Next, head to the second PC and go to desktop and then browser. Type **https://192.168.1.10** into the address bar and press enter or go. You should be able to connect and it looks like https is working! Wooho, we're secure!
+Next, head to the second PC and go to desktop and then browser. Type **https://192.168.1.10** into the address bar and press enter or go. You should be able to connect and it looks like https is working! Woohoo, we're secure!
 
 ![Screenshot 11](/assets/img/Screenshot 11 - Setting Up Https.png)
 
