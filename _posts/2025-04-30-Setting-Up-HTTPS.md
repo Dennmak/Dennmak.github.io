@@ -57,13 +57,13 @@ Set IPv4 to **192.168.1.3**. Next, set the subnetmask to **255.255.255.0**. Afte
 
 Now head to the first server and go to IP configuration.
 
-Set IPv4 to **192.168.1.5**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to 192.168.1.1**.
+Set IPv4 to **192.168.1.5**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to **192.168.1.1**.
 
 ![Screenshot 6](/assets/img/Screenshot 6 - Setting Up Https.png)
 
 Now head to the second server and repeat these same steps.
 
-Set IPv4 to **192.168.1.10**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to 192.168.1.1**.
+Set IPv4 to **192.168.1.10**. Next, set the subnetmask to **255.255.255.0**. After that, set the default gateway to **192.168.1.1**.
 
 ![Screenshot 7](/assets/img/Screenshot 7 - Setting Up Https.png)
 
