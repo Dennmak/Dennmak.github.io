@@ -75,7 +75,7 @@ Head to the first server and select **services**. Turn **HTTPS** to **off** and 
 
 ![Screenshot 8](/assets/img/Screenshot 8 - Setting Up Https.png)
 
-Now, head to the second server and select **services**. Turn **HTTPS** to **On** and make sure that **HTTP** is set to **off**.
+Now, head to the second server and select **services**. Turn **HTTPS** to **on** and make sure that **HTTP** is set to **off**.
 
 ![Screenshot 9](/assets/img/Screenshot 9 - Setting Up Https.png)
 
