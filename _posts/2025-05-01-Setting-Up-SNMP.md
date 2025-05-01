@@ -115,9 +115,14 @@ After that, change the value in the **value box** to whatever you desire. In my 
 
 ![Screenshot 12](/assets/img/Screenshot 12 - Setting Up SNMP.png)
 
+## Time to Check!
 
+Now we're going to open up the CLI tab in our router to see if it worked. In my case it shows R1 which shows that we are successful! Woohoo!
 
+![Screenshot 13](/assets/img/Screenshot 13 - Setting Up SNMP.png)
 
+## It Is Finished!
 
+We have now successfully set up SNMP in our network! This tool gives us the ability to monitor different devices in our network, in this case our router. You can add more devices to monitor if you desire but I decided to keep it simple so I can show an easy and practical option. One can only imagine how complicated it can get if you have hundreds of devices in a network. Anyway, great job and congratulations! Keep exploring and seeing what else you can do with SNMP!
 
-
+![Shark End](/assets/img/Shark End - Setting Up SNMP.jpg)
