@@ -71,4 +71,53 @@ Set the subnet mask to **255.255.255.0**.
 
 ![Screenshot 7](/assets/img/Screenshot 7 - Setting Up SNMP.png)
 
+## It's CLI Time
+
+Now we're going to head into our router and check out the CLI tab. This is where we'll start configuring SNMP.
+
+We'll be using two commands today. 
+
+snmp-server community read ro
+
+snmp-server community write rw
+
+Copy over my inputs from the CLI box to know which order to put them in.
+
+![Screenshot 8](/assets/img/Screenshot 8 - Setting Up SNMP.png)
+
+## Time to Browse
+
+Head into your first PC and go to **MiB** browser. 
+
+In the address bar type in **192.168.2.1** and then select the **advanced** box.
+
+![Screenshot 9](/assets/img/Screenshot 9 - Setting Up SNMP.png)
+
+Now in the read community box, type **read** as the password.
+
+In the write community box, type **write** as the password. 
+
+Yes, very original, I know. 
+
+![Screenshot 10](/assets/img/Screenshot 10 - Setting Up SNMP.png)
+
+Now, this might get a little tricky. You'll see a tree on the left with little arrows under it. Keep clicking arrows until you come to a system drop down and you see **.sysName**.
+
+You will see an OID number that popped up in the top right box. Press go!
+
+![Screenshot 11](/assets/img/Screenshot 11 - Setting Up SNMP.png)
+
+Now you'll see a box that says **Get**. Press that box and you'll see a drag down box appear that has **Set** in it. 
+
+Another box should then pop up and you should see data type and in this you'll change it to **OctetString**. 
+
+After that, change the value in the **value box** to whatever you desire. In my case I put R1 for a value that's easy to remember.
+
+![Screenshot 12](/assets/img/Screenshot 12 - Setting Up SNMP.png)
+
+
+
+
+
+
 
