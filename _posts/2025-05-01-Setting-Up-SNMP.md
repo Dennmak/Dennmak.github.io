@@ -99,7 +99,7 @@ In the write community box, type **write** as the password.
 
 Yes, very original, I know. 
 
-![Screenshot 10](/assets/img/Screenshot 10 - Setting Up SNMP.png)
+![Screenshot 10](/assets/img/Screenshot 10 - Setting Up SNMP .png)
 
 Now, this might get a little tricky. You'll see a tree on the left with little arrows under it. Keep clicking arrows until you come to a system drop down and you see **.sysName**.
 
