@@ -37,4 +37,38 @@ After you connected them, it should look similar to this.
 
 Next we're going to configure our devices by assigning IP addresses to them. We're going to assign IP's to our 3 PC's and then to our router. 
 
-First, head to the router
+First, head to the router and head to the config tab. Select **gigabitethernet 0/0** on the left under interface.
+
+On the right, you'll see port status. Check that box to **on**.
+
+Next go to IPv4 and set the address to **192.168.2.1**.
+
+Set the subnet mask to **255.255.255.0**.
+
+![Screenshot 4](/assets/img/Screenshot 4 - Setting Up SNMP.png)
+
+Next, head to the first PC and go to ip configuration under the desktop tab.
+
+Next go to IPv4 and set the address to **192.168.2.2**.
+
+Set the subnet mask to **255.255.255.0**.
+
+![Screenshot 5](/assets/img/Screenshot 5 - Setting Up SNMP.png)
+
+Now head to the next PC and repeat the process.
+
+Next go to IPv4 and set the address to **192.168.2.3**.
+
+Set the subnet mask to **255.255.255.0**.
+
+![Screenshot 6](/assets/img/Screenshot 6 - Setting Up SNMP.png)
+
+Finally, head to the last PC and repeat it again.
+
+Go to IPv4 and set the address to **192.168.2.4**.
+
+Set the subnet mask to **255.255.255.0**.
+
+![Screenshot 7](/assets/img/Screenshot 7 - Setting Up SNMP.png)
+
+
