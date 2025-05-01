@@ -11,7 +11,7 @@ author: Dennis Maksimov
 
 ## What is SNMP?
 
-Have you wondered what SNMP is? Well I have the answer for you! SNMP is a protocol used in networking that allows for monitoring and managing network devices. This allows network administrators or in this case you, to gather diagnosdtic data and other information about their network. It's an efficient way to gather data that can be used for troubleshooting and other tasks.
+Have you wondered what SNMP is? Well I have the answer for you! SNMP is a protocol used in networking that allows for monitoring and managing network devices. This allows network administrators or in this case you, to gather diagnostic data and other information about their network. It's an efficient way to gather data that can be used for troubleshooting and other tasks.
 
 ## Let's Get Started!
 
