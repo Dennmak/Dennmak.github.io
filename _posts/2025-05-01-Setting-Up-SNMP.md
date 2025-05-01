@@ -24,3 +24,17 @@ Today we're going to set up SNMP in a simple network so you can see how to get s
 We're going to get started by setting up a small network. This will consist of 3 PC's, a switch, and a router. Drag these onto your canvas in any format you desire.
 
 ![Screenshot 1](/assets/img/Screenshot 1 - Setting Up SNMP.png)
+
+Next we're going to connect our devices together. Head to the connections tab and select **automatically choose connection type**. Connect your router to your switch, and then connect all 3 PC's to your switch.
+
+![Screenshot 2](/assets/img/Screenshot 2 - Setting Up SNMP.png)
+
+After you connected them, it should look similar to this.
+
+![Screenshot 3](/assets/img/Screenshot 3 - Setting Up SNMP.png)
+
+## Configuration Conundrum
+
+Next we're going to configure our devices by assigning IP addresses to them. We're going to assign IP's to our 3 PC's and then to our router. 
+
+First, head to the router
