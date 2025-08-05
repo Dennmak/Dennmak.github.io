@@ -11,7 +11,7 @@ author: Dennis Maksimov
 
 ## What is UAC?
 
-What is UAC, you say? You're in the right place! UAC, or user account control, is a security measure for Windows put in place to keep users safe. Try thinking of it as a checkpoint with a guard who asks you where you're going and why you need access. It focuses on the premise of least privilege, which provides users with the tools they need to do their jobs and nothing more or less. Whenever an application tries to make an administrative change on your device, UAC will have a notification pop up, warning you and asking you if you want to give permission or not. If you deny it, that application cannot proceed further; if you accept it, then you give permission for that application to complete its task.
+What is UAC, you say? You're in the right place! UAC, or user account control, is a security measure for Windows put in place to keep users safe. Try thinking of it as a checkpoint or fence with a guard who asks you where you're going and why you need access. It focuses on the premise of least privilege, which provides users with the tools they need to do their jobs and nothing more or less. Whenever an application tries to make an administrative change on your device, UAC will have a notification pop up, warning you and asking you if you want to give permission or not. If you deny it, that application cannot proceed further; if you accept it, then you give permission for that application to complete its task.
 
 ![Checkpoint](/assets/img/Checkpoint - Changing UAC.jpg)
 
