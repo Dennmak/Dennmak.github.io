@@ -64,6 +64,18 @@ With this security posture, attackers will try their best to get in, but they're
 
 ![Screenshot 7](/assets/img/Screenshot 7 - Changing UAC.jpg)
 
+## King of the Castle
+
+The last option that we'll review is the most secure. It'll warn you if anyone tries to make changes or install software on your device. It'll also dim your screen and warn you if you make any changes to Windows. This security posture is the most secure, as you'll be warned of anything that happens on your device. The only downside to this is that it may get annoying with the number of notifications and pop-ups that you'll get. In my eyes, though, it's a worthwhile sacrifice because you're doing everything you can to keep your device safe. 
+
+![Screenshot 8](/assets/img/Screenshot 8 - Changing UAC.png)
+
+With this option, it'll be very difficult for attackers to find in, and it's the equivalent of them trying to scale a wall with barbed wire on top. Your computer will be secure, and it'll be very difficult for them to get a foothold. However, this doesn't eliminate the need for you to pay attention and be wary of what you install or click on.
+
+![Screenshot 9](/assets/img/Screenshot 9 - Changing UAC.jpg)
+
+
+
 
 
 
