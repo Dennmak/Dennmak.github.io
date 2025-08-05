@@ -44,6 +44,27 @@ Think of it as sitting in a house that's burning down around you or a frog sitti
 
 ![Screenshot 3](/assets/img/Screenshot 3 - Changing UAC.jpg)
 
+## Keep the Lights On
+
+The next option is a bit more secure, but it won't warn you if you personally make changes to Windows. However, it'll warn you if applications try to make changes to your device and that's a step up in security from the previous choice we reviewed. Windows will also not dim your screen to warn you of a potential alert, and the lights will stay on. In normal settings, Windows will dim your screen to give a sense of urgency to the alert.
+
+![Screenshot 4](/assets/img/Screenshot 4 - Changing UAC.png)
+
+It's not ideal, but it provides more security than not having any at all. You have to do your due diligence, as whatever you click on and change in Windows will not pop up as an alert. This puts all the liability on you because attackers still have a high chance of sneaking in if you're not paying attention.
+
+![Screenshot 5](/assets/img/Screenshot 5 - Changing UAC.jpg)
+
+## Recommended
+
+The next option is the default option or recommended security settings for UAC. It'll dim your screen on alert and warn you of applications trying to make modifications to your system. However, it won't warn you if you make changes to Windows on your own. This is a more secure posture, as now the screen will dim on alert, and you'll have to put your full attention on the alert. Attackers will now have to face you head-on if they want to get into your castle. 
+
+![Screenshot 6](/assets/img/Screenshot 6 - Changing UAC.png)
+
+With this security posture, attackers will try their best to get in, but they're limited in what they can do if you're paying attention. They'll depend on you making mistakes and allowing them in.
+
+![Screenshot 7](/assets/img/Screenshot 7 - Changing UAC.jpg)
+
+
 
 
 
