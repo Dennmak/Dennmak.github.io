@@ -25,8 +25,6 @@ Malicious applications called malware want to gain access to your devices. Why d
 
 We're going to do a surface dive into UAC and do an introduction, which will get you familiar with what UAC is, what it looks like, and what it does. You'll then be prepared to customize your options to achieve your security goals.
 
-![Lemur Start](/assets/img/Lemur Start - Changing UAC.jpg)
-
 ## Where the Magic Happens
 
 This is the UAC console, which is where we'll be exploring our customization options and where you'll see the visual GUI of what UAC does. There's a slider bar which allows you to either scroll up or down, and each option will show what enforcement level it provides, ranging from none to maximum security.
@@ -47,9 +45,9 @@ Think of it as sitting in a house that's burning down around you or a frog sitti
 
 The next option is a bit more secure, but it won't warn you if you personally make changes to Windows. However, it'll warn you if applications try to make changes to your device and that's a step up in security from the previous choice we reviewed. Windows will also not dim your screen to warn you of a potential alert, and the lights will stay on. In normal settings, Windows will dim your screen to give a sense of urgency to the alert.
 
-![Screenshot 4](/assets/img/Screenshot 4 - Changing UAC.png)
-
 It's not ideal, but it provides more security than not having any at all. You have to do your due diligence, as whatever you click on and change in Windows will not pop up as an alert. This puts all the liability on you because attackers still have a high chance of sneaking in if you're not paying attention.
+
+![Screenshot 4](/assets/img/Screenshot 4 - Changing UAC.png)
 
 ## Recommended
 
@@ -72,5 +70,3 @@ With this option, it'll be very difficult for attackers to find a way in, and it
 ## The Adventure Concludes
 
 Our adventure has come to an end and we've gone through the various options that UAC provides in terms of protection. Ranging from no protection at all to having the equivalent of a castle. UAC is an important security feature that will keep you safe when you're surfing the internet and keep those pesky hackers away from your sensitive information. Do your due diligence and pick the option that works best for you, and remember to never let your guard down because the moment that you make a mistake, someone will be there to take advantage of it. 
-
-![Lemur End](/assets/img/Lemur End - Changing UAC.jpg)
