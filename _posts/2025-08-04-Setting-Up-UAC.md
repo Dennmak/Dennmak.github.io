@@ -25,6 +25,8 @@ Malicious applications called malware want to gain access to your devices. Why d
 
 We're going to do a surface dive into UAC and do an introduction, which will get you familiar with what UAC is, what it looks like, and what it does. You'll then be prepared to customize your options to achieve your security goals.
 
+![Lemur Start](/assets/img/Lemur Start - Changing UAC.jpg)
+
 ## Where the Magic Happens
 
 This is the UAC console, which is where we'll be exploring our customization options and where you'll see the visual GUI of what UAC does. There's a slider bar which allows you to either scroll up or down, and each option will show what enforcement level it provides, ranging from none to maximum security.
