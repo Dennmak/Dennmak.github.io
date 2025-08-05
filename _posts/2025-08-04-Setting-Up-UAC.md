@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting Up UAC
-subtitle: How to Set up UAC
+subtitle: How to Change User Account Control Settings
 cover-img: assets/img/Blue Background - Setting Up SNMP.jpg
 thumbnail-img: assets/img/Thumbnail - Changing UAC.jpg
 share-img: assets/img/Share - Changing UAC.jpg
