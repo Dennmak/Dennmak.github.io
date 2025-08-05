@@ -40,7 +40,7 @@ The first option that we have is the ability to turn off UAC completely and turn
 
 Think of it as sitting in a house that's burning down around you or a frog sitting in a pot with boiling water that gets hotter and hotter. The meme below portrays exactly my point!
 
-![Screenshot 3](/assets/img/Screenshot 3 - Changing UAC.png)
+![Screenshot 3](/assets/img/Screenshot 3 - Changing UAC.jpg)
 
 
 
