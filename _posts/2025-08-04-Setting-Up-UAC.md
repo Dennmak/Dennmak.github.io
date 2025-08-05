@@ -21,8 +21,31 @@ Malicious applications called malware want to gain access to your devices. Why d
 
 ## Let's Get Started
 
-We're going to do a surface dive into UAC and do an introduction, which will get you familiar with what UAC is, what it looks like, and what it does. You'll then be prepared to customize your options to achieve your security goals.
+We're going to do a surface dive into UAC and do an introduction which will get you familiar with what UAC is, what it looks like, and what it does. You'll then be prepared to customize your options to achieve your security goals.
 
 ![Lemur Start](/assets/img/Lemur Start - Changing UAC.jpg)
+
+## Where the Magic Happens
+
+This is the UAC console which is where we'll be exploring our customization options and where you'll see the visual GUI of what UAC does. There's a slider bar which allows you to either scroll up or down and each option will show what it provides or what it lacks.
+
+![Screenshot 1](/assets/img/Screenshot 1 - Changing UAC.png)
+
+
+## Anarchy Reigns
+
+The first option that we have is the ability to turn off UAC completely and turn off notifications. This will disable notifications for when you make changes to Windows, and it'll also not warn you about programs that make administrative changes and modifications to your computer. It's the equivalent of having the wild west on your computer, and anything goes. This option is very unsafe, and I do not recommend it at all because it disables security for your computer. It's the equivalent of a hacker's paradise, and it lets them do whatever they want. 
+
+![Screenshot 2](/assets/img/Screenshot 2 - Changing UAC.png)
+
+Think of it as sitting in a house that's burning down around you, but you're content with how things are going. The meme below portrays exactly my point!
+
+![Screenshot 3](/assets/img/Screenshot 3 - Changing UAC.png)
+
+
+
+
+
+
 
 
