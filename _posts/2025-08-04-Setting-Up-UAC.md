@@ -60,7 +60,7 @@ The next option is the default option or recommended security settings for UAC. 
 
 ![Screenshot 6](/assets/img/Screenshot 6 - Changing UAC.png)
 
-With this security posture, attackers will try their best to get in, but they're limited in what they can do if you're paying attention. They'll depend on you making mistakes and allowing them in.
+With this security posture, attackers will try their best to get in, but they're limited in what they can do if you're paying attention. They'll depend on you making mistakes and allowing them in and they'll try their hardest to find that chink in your armor.
 
 ![Screenshot 7](/assets/img/Screenshot 7 - Changing UAC.jpg)
 
