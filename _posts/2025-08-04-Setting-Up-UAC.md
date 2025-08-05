@@ -75,6 +75,6 @@ With this option, it'll be very difficult for attackers to find a way in, and it
 
 ## The Adventure Concludes
 
-Our adventure has come to an end, and we've gone through the various options that UAC provides in terms of protection. Ranging from no protection at all to having the equivalent of a castle. UAC is an important security feature that will keep you safe when you're surfing the internet and keep those pesky hackers away from your sensitive information. Do your due diligence and pick the option that works best for you, and remember to never let your guard down because the moment that you make a mistake, someone will be there to take advantage of it. 
+Our adventure has come to an end and we've gone through the various options that UAC provides in terms of protection. Ranging from no protection at all to having the equivalent of a castle. UAC is an important security feature that will keep you safe when you're surfing the internet and keep those pesky hackers away from your sensitive information. Do your due diligence and pick the option that works best for you, and remember to never let your guard down because the moment that you make a mistake, someone will be there to take advantage of it. 
 
 ![Lemur End](/assets/img/Lemur End - Changing UAC.jpg)
