@@ -33,7 +33,6 @@ This is the UAC console, which is where we'll be exploring our customization opt
 
 ![Screenshot 1](/assets/img/Screenshot 1 - Changing UAC.png)
 
-
 ## Anarchy Reigns
 
 The first option that we have is the ability to turn off UAC completely and turn off notifications. This will disable notifications for when you make changes to Windows, and it'll also not warn you about programs that make administrative changes and modifications to your computer. It's the equivalent of having the wild west on your computer, and anything goes. This option is very unsafe, and I do not recommend it at all because it disables security for your computer. It's the equivalent of a hacker's paradise, and it lets them do whatever they want. 
@@ -70,7 +69,7 @@ The last option that we'll review is the most secure. It'll warn you if anyone t
 
 ![Screenshot 8](/assets/img/Screenshot 8 - Changing UAC.png)
 
-With this option, it'll be very difficult for attackers to find in, and it's the equivalent of them trying to scale a wall with barbed wire on top. Your computer will be secure, and it'll be very difficult for them to get a foothold. However, this doesn't eliminate the need for you to pay attention and be wary of what you install or click on.
+With this option, it'll be very difficult for attackers to find a way in, and it's the equivalent of them trying to scale a wall with barbed wire on top. Your computer will be secure, and it'll be very difficult for them to get a foothold. However, this doesn't eliminate the need for you to pay attention and be wary of what you install or click on.
 
 ![Screenshot 9](/assets/img/Screenshot 9 - Changing UAC.jpg)
 
