@@ -27,7 +27,7 @@ We're going to do a surface dive into UAC and do an introduction which will get 
 
 ## Where the Magic Happens
 
-This is the UAC console which is where we'll be exploring our customization options and where you'll see the visual GUI of what UAC does. There's a slider bar which allows you to either scroll up or down and each option will show what it provides or what it lacks.
+This is the UAC console, which is where we'll be exploring our customization options and where you'll see the visual GUI of what UAC does. There's a slider bar which allows you to either scroll up or down, and each option will show what it provides or what it lacks.
 
 ![Screenshot 1](/assets/img/Screenshot 1 - Changing UAC.png)
 
