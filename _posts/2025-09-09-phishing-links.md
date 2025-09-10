@@ -31,26 +31,19 @@ I'm going to list many free tools that one can use in their investigation. I use
 
 Also, these tools are a part of OSINT (open source intelligence). OSINT is the gathering and analysis of public information and gaining intelligence out of it. It's a huge blessing because it's not locked behind a paywall, and you can do it straight from your home. 
 
-**1) VirusTotal**
-
-The tool I'd like to shout out is VirusTotal. It's a free tool that allows you to scan a URL or file, and it'll report back whether it's malicious or not. It scans the said file or URL with security vendors and the community, and you get a response when it's done.
+1) The tool I'd like to shout out is **VirusTotal**. It's a free tool that allows you to scan a URL or file, and it'll report back whether it's malicious or not. It scans the said file or URL with security vendors and the community, and you get a response when it's done.
 
 ![Virus Total](/assets/img/Virustotal - Phishing Links.png)
 
-**2) DNSlytics**
-DNSlytics is a tool that can be used to bring up the IP, domain, and provider for a website. It's very powerful, and the best part is that it's free!
+2) **DNSlytics** is a tool that can be used to bring up the IP, domain, and provider for a website. It's very powerful, and the best part is that it's free!
 
 ![DNS](/assets/Dnslytics - Phishing Links.png)
 
-**3) URLScan**
-
-URLscan is a tool that scans a URL and provides you with information about it, and lists whether it's malicious or not. It also allows you to preview what it looks like and provides a snapshot in real time, so you don't have to head to the malicious link yourself. 
+3) **Urlscan** is a tool that scans a URL and provides you with information about it, and lists whether it's malicious or not. It also allows you to preview what it looks like and provides a snapshot in real time, so you don't have to head to the malicious link yourself. 
 
 ![URL](/assets/Urlscan - Phishing Links.png)
 
-**4) MHA**
-
-MHA, or message header analyzer, is a tool that analyzes header input for you. It provides a deep dive and gives you output on it. It's a bit much if you don't know what you're looking for, but it's really in-depth.
+4) **MHA**, or message header analyzer, is a tool that analyzes header input for you. It provides a deep dive and gives you output on it. It's a bit much if you don't know what you're looking for, but it's really in-depth.
 
 ![Header](/assets/MHA Header - Phishing Links.png)
 
