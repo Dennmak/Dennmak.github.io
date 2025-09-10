@@ -39,6 +39,14 @@ The tool we're going to be using today is VirusTotal. It's a free tool that allo
 
 ## The Scene of the Crime
 
+I present to you in all of its infamous glory, a phishing email. I dug it up in my spam folder, and it's looking pretty bad from over here. Someone needs to take out the trash! Yet before we continue to insult the email and its sender, we're going to have to analyze it to make sure that it's actually a phishing email.
+
+![Phishing Email](/assets/img/Phishing Alert - Phishing Links.png)
+
+
+
+
+
 
 
 
