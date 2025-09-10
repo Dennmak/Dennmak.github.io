@@ -49,13 +49,13 @@ I present to you in all of its infamous glory, a phishing email. I dug it up in 
 
 I'm going to list a series of steps that I use in analyzing this email, and hopefully, you can create a similar method in order to perform your own analysis.
 
-1) The Title: "Final Notice: Your photos and videos will be deleted – take action"
+The Title: "Final Notice: Your photos and videos will be deleted – take action"
 
 The title states that it's a final notice and that if you don't act, your photos and videos will be deleted with a few warning emojis as a cherry on top. This sense of urgency creates a sense of fear and manipulates you into acting because you're worried that your content will be deleted. This is a case of social engineering and is a method used by hackers in order to manipulate you into performing an action, which in this case is clicking their link. A few questions to ask yourself are, "Is it too good to be true?" and "What are they trying to get me to do?". There's always a catch and purpose to these emails. Once you spot these patterns, it's easy to put it all together.
 
 ![Urgency Title](assets/img/Urgency Title - Phishing Links.png)
 
-2) The Sender
+The Sender
 
 The next thing that we're going to look at is the sender. Questions such as "Does this look like a legitimate sender?" should come to mind. Normally, we'd run it through the email domain through URLscan or DNSlytics, but in this case, we're going to observe and gauge it by eye. It looks to be an abnormally long sender address with a "net" top-level domain and also a "lat" domain. Something smells phishy over here! It doesn't add up because it's not like a normal domain, such as Google or Yahoo. It seems that they're not English speakers either, and this isn't a US or English native domain. 
 
