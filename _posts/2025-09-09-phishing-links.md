@@ -53,7 +53,7 @@ The Title: "Final Notice: Your photos and videos will be deleted – take action
 
 The title states that it's a final notice and that if you don't act, your photos and videos will be deleted with a few warning emojis as a cherry on top. This sense of urgency creates a sense of fear and manipulates you into acting because you're worried that your content will be deleted. This is a case of social engineering and is a method used by hackers in order to manipulate you into performing an action, which in this case is clicking their link. A few questions to ask yourself are, "Is it too good to be true?" and "What are they trying to get me to do?". There's always a catch and purpose to these emails. Once you spot these patterns, it's easy to put it all together.
 
-![Urgency](/assets/img/Urgency Alert Title - Phishing Links.png)
+![Urgency](/assets/img/Urgency Title - Phishing Links.png)
 
 The Sender
 
