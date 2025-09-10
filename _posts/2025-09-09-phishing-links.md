@@ -25,19 +25,33 @@ Bad actors use phishing as a means of getting access to systems and getting a ho
 
 Another topic that goes hand in hand with phishing is social engineering. Social engineering is a method of social hacking that includes manipulating individuals in order for them to do something that one desires without them being aware. Examples of this include convincing someone to reveal confidential information, convincing them to change a password, or creating a sense of urgency that forces a person to act on their emotions. It also consists of gaining a person's trust and taking advantage of that trust so that they perform a task for you. It's one of the main tools in a hacker's tool belt, and it's very effective.
 
+## The Tools of the Trade
+
+I'm going to list many free tools that one can use in their investigation. I use them myself, and they've been a blessing so far. They serve various purposes and all get the job done efficiently.
+
+Also, these tools are a part of OSINT (open source intelligence). OSINT is the gathering and analysis of public information and gaining intelligence out of it. It's a huge blessing because it's not locked behind a paywall, and you can do it straight from your home. 
+
+The tool I'd like to shout out is VirusTotal. It's a free tool that allows you to scan a URL or file, and it'll report back whether it's malicious or not. It scans the said file or URL with security vendors and the community, and you get a response when it's done.
+
+![Virus Total](/assets/img/Virustotal - Phishing Links.png)
+
+DNSlytics is a tool that can be used to bring up the IP, domain, and provider for a website. It's very powerful, and the best part is that it's free!
+
+![DNS](/assets/Dnslytics - Phishing Links.png)
+
+URLscan is a tool that scans a URL and provides you with information about it, and lists whether it's malicious or not. It also allows you to preview what it looks like and provides a snapshot in real time, so you don't have to head to the malicious link yourself. 
+
+![URL](/assets/Urlscan - Phishing Links.png)
+
+MHA, or message header analyzer, is a tool that analyzes header input for you. It provides a deep dive and gives you output on it. It's a bit much if you don't know what you're looking for, but it's really in-depth.
+
+![Header](/assets/MHA Header - Phishing Links.png)
+
 ## What's the Plan Today?
 
 Today, we're going to be analyzing a phishing email that had malicious intent. We're going to be looking at the sender, titles, email structure, and how to check if the link or payload in the email is malicious. Hopefully, this will equip you to spot these pesky emails and keep you and others safe from these bad actors.
 
 ![Fishing Start](/assets/img/Fishing Start - Phishing Links.png)
-
-## The Tools of the Trade
-
-The tool we're going to be using today is VirusTotal. It's a free tool that allows you to scan a URL or file, and it'll report back whether it's malicious or not. It scans the said file or URL with security vendors and the community, and you get a response when it's done. This is basically what OSINT (open source intelligence) is all about. OSINT is the gathering and analysis of public information and gaining intelligence out of it. It's a huge blessing because it's not locked behind a paywall, and you can do it straight from your home. 
-
-There are many other tools that you can use, such as DNSlytics, message header analyzer, and URLScan. These can be used to analyze the IP of a sender email or website, analyze headers, and scan URLs to see if they're malicious. However, for the sake of simplicity, we're just going to be using Virustotal today. 
-
-![Virus Total](/assets/img/Virustotal - Phishing Links.png)
 
 ## The Scene of the Crime
 
@@ -79,8 +93,21 @@ The big blue button that's tempting you to press it is where the payload is hidi
 
 ![Button](/assets/img/The Link - Phishing Links.png)
 
+**6) Deletion: Termination commencing...**
 
+The next step involves deleting the email and getting rid of it. No longer will it stain your email or stink up the place. You have now accomplished your mission and analyzed a phishing email. The best solution for these phishing links is to either delete them or, if you're in a corporate environment, report them to your security team that's in charge of containing said emails. 
 
+![Deletion](/assets/img/Delete - Phishing Links.png)
+
+## It is Finished
+
+It's done! You now have been equipped with how to analyze these phishing emails on a fundamental level! Keep learning, and those bad actors will stand no chance.
+
+There are many other tools that can be used, and I have only scratched the surface here. Also, there are many advanced techniques that one can use to dive even further for investigations, such as sandboxing, checking the URL, and using tools such as Splunk and Defender to find out where it came from. I could list a more thorough method, but I hope this helped educate you on how to identify phishing emails on a basic level.
+
+There are many more sophisticated phishing emails that have proper spelling, grammar, company logos, and spoofed domains, but luckily, we got to check out a messy one today! Thank you for keeping up with me, and until next time! Happy hunting!
+
+![End](/assets/img/Fishing End - Phishing Links.png)
 
 
 
