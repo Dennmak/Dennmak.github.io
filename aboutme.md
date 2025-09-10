@@ -11,6 +11,4 @@ Right now, I’m a Cybersecurity Intern at a medical organization, where I help 
 
 Before tech, I spent 10+ years in retail and healthcare, where I learned how to solve problems fast, stay calm under pressure, and treat everyone with empathy and respect. I carry those skills with me into every project and ticket I touch. Now my desire is to get into cybersecurity and truly pursue what I enjoy doing, protecting others, and helping people navigate the digital frontier known as the internet.
 
-I’m always open to connecting with like-minded folks in tech. Let’s connect!
-
-This website is where I’ll document my learning journey, share insights, and explore the ever-evolving world of tech, and hopefully try to keep up. Thanks for stopping by!
+This website is where I’ll document my learning journey, share insights, and explore the ever-evolving world of tech, and hopefully try to keep up. I’m always open to connecting with like-minded folks in tech. Thanks for stopping by! 
