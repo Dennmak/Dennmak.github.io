@@ -67,6 +67,12 @@ The text in the email is the biggest giveaway. There are underscores between eve
 
 ![Errors](/assets/img/Text Errors - Phishing Links.png)
 
+4) Text: As part of our loyalty program, you may be eligible to receive 50GB of FREE Cloud Storage to maintain access to your files
+
+The text here is the bait that's thrown your way. Initially, they stated that your videos and photos would be deleted. Now, they offer you a chance to get free cloud storage in order to store your content on it. It's social engineering, which is manipulating you to hopefully persuade you to click their link because you're getting a great deal.
+
+![Great Deal](/assets/img/Great Offer - Phishing Links.png)
+
 
 
 
