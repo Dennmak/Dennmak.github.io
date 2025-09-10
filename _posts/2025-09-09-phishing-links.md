@@ -21,6 +21,10 @@ These links are usually hidden in buttons or other places where you don't expect
 
 Bad actors use phishing as a means of getting access to systems and getting a hold of confidential information. A user can send out 1,000 malicious emails, and 999 people could spot it, but it takes only 1 person to make a mistake. Those mistakes can be costly and cause great harm, and sometimes you don't even know that the link you clicked was malicious. Your credit card, social security, bank account information, and other information can be accessed just because you clicked a link! It's a big deal, and it greatly emphasises why you should pay attention when you're surfing the internet.
 
+## Social What?
+
+Another topic that goes hand in hand with phishing is social engineering. Social engineering is a method of social hacking that includes manipulating individuals in order for them to do something that one desires without them being aware. Examples of this include convincing someone to reveal confidential information, convincing them to change a password, or creating a sense of urgency that forces a person to act on their emotions. It also consists of gaining a person's trust and taking advantage of that trust so that they perform a task for you. It's one of the main tools in a hacker's tool belt, and it's very effective.
+
 ## What's the Plan Today?
 
 Today, we're going to be analyzing a phishing email that had malicious intent. We're going to be looking at the sender, titles, email structure, and how to check if the link or payload in the email is malicious. Hopefully, this will equip you to spot these pesky emails and keep you and others safe from these bad actors.
