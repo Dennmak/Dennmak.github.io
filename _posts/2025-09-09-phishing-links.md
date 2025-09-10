@@ -27,6 +27,12 @@ Today, we're going to be analyzing a phishing email that had malicious intent. W
 
 ![Fishing Start](/assets/img/Fishing Start - Phishing Links.png)
 
+## The Tools of the Trade
+
+The tool we're going to be using today is VirusTotal. It's a free tool that allows you to scan a URL or file, and it'll report back whether it's malicious or not. It scans the said file or URL with security vendors and the community, and you get a response when it's done. This is basically what OSINT (open source intelligence) is all about. OSINT is the gathering and analysis of public information and gaining intelligence out of it. It's a huge blessing because it's not locked behind a paywall, and you can do it straight from your home. 
+
+![Virus Total](/assets/img/Fishing Start - Phishing Links.png)
+
 
 
 
