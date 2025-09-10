@@ -63,7 +63,7 @@ The next thing that we're going to look at is the sender. Questions such as "Doe
  
 3) Text: Your Cloud Storage may be Full Photos videos and Drive are no longer updating
 
-The text in the email is the biggest giveaway. There are underscores between every word, and random words are capitalized. It isn't a professional format at all and is a dead giveaway because most professional vendors would spell it out properly and have proper grammar
+The text in the email is the biggest giveaway. There are underscores between every word, and random words are capitalized. It isn't a professional format at all and is a dead giveaway because most professional vendors would spell it out properly and have proper grammar.
 
 ![Errors](/assets/img/Text Errors - Phishing Links.png)
 
