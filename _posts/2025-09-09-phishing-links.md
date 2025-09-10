@@ -71,7 +71,7 @@ The title states that it's a final notice and that if you don't act, your photos
 
 **2) Sender: hngnnrrztsyferqwkzvt**
 
-The next thing that we're going to look at is the sender. Questions such as "Does this look like a legitimate sender?" should come to mind. Normally, we'd run it through the email domain through URLscan or DNSlytics, but in this case, we're going to observe and gauge it by eye. It looks to be an abnormally long sender address with a "net" top-level domain and also a "lat" domain. Something smells phishy over here! It doesn't add up because it's not like a normal domain, such as Google or Yahoo. It seems that they're not English speakers either, and this isn't a US or English native domain. 
+The next thing that we're going to look at is the sender. Questions such as "Does this look like a legitimate sender?" should come to mind. Normally, we'd run it through the email domain through URLscan or DNSlytics, but in this case, we're going to observe and gauge it by eye. It looks to be an abnormally long sender address with a "net" top-level domain and also a "lat" domain, which is based in Latin America. Something smells phishy over here! It doesn't add up because it's not like a normal domain, such as Google or Yahoo. It seems that they're not English speakers either, and this isn't a US or English native domain. 
 
 ![The Sender](/assets/img/Sender - Phishing Links.png)
  
@@ -95,7 +95,7 @@ The big blue button that's tempting you to press it is where the payload is hidi
 
 **6) Deletion: Termination commencing...**
 
-The next step involves deleting the email and getting rid of it. No longer will it stain your email or stink up the place. You have now accomplished your mission and analyzed a phishing email. The best solution for these phishing links is to either delete them or, if you're in a corporate environment, report them to your security team that's in charge of containing said emails. 
+The next step involves deleting the email and getting rid of it. No longer will it stain your email or stink up the place. You have now accomplished your mission and analyzed a phishing email. The best solution for these phishing emails is to either delete them or, if you're in a corporate environment, report them to your security team that's in charge of dealing with said emails. 
 
 ![Deletion](/assets/img/Delete - Phishing Links.png)
 
@@ -108,11 +108,3 @@ There are many other tools that can be used, and I have only scratched the surfa
 There are many more sophisticated phishing emails that have proper spelling, grammar, company logos, and spoofed domains, but luckily, we got to check out a messy one today! Thank you for keeping up with me, and until next time! Happy hunting!
 
 ![End](/assets/img/Fishing End - Phishing Links.png)
-
-
-
-
-
-
-
-
