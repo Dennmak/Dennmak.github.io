@@ -58,7 +58,7 @@ The Sender
 
 The next thing that we're going to look at is the sender. Questions such as "Does this look like a legitimate sender?" should come to mind. Normally, we'd run it through the email domain through URLscan or DNSlytics, but in this case, we're going to observe and gauge it by eye. It looks to be an abnormally long sender address with a "net" top-level domain and also a "lat" domain. Something smells phishy over here! It doesn't add up because it's not like a normal domain, such as Google or Yahoo. It seems that they're not English speakers either, and this isn't a US or English native domain. 
 
-![Virus Total](/assets/img/Virustotal - Phishing Links.png)
+![The Sender](/assets/img/Sender - Phishing Links.png)
  
 
 
