@@ -77,7 +77,7 @@ The text here is the bait that's thrown your way. Initially, they stated that yo
 
 The big blue button that's tempting you to press it is where the payload is hiding. The phishing link is embedded in it, and the "Keep Using Cloud Storage" is a call to action, which is meant to convince you to click on it. Alarm bells should be ringing through your head right now. Do not click that button.
 
-![Great Deal](/assets/img/The Link - Phishing Links.png)
+![Button](/assets/img/The Link - Phishing Links.png)
 
 
 
